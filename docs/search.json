@@ -2,23 +2,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Huron-Manistee National Forests LANDFIRE Demo, 2023",
+    "title": "Map Zone 15 LANDFIRE Demo, 2023",
     "section": "",
     "text": "In general we will use LANDFIRE products to:\n\nMap and summarize past and present ecosystems and ecosystem conditions\nExplore historical disturbance regimes\nSummarize patterns of change and management opportunities\n\nOutputs presented here are the tip of the iceberg of what can be done with these datasets and are intended to help begin brainstorming about appropriate questions that could be explored collaboratively."
   },
   {
     "objectID": "index.html#interacting-with-this-web-report",
     "href": "index.html#interacting-with-this-web-report",
-    "title": "Huron-Manistee National Forests LANDFIRE Demo, 2023",
+    "title": "Map Zone 15 LANDFIRE Demo, 2023",
     "section": "Interacting with this web report",
-    "text": "Interacting with this web report\nA few notes about using this report:\n\nAs of March 15, 2023 there has been no QAQC. This is a demo only.\nThis platform is web-hosted so you can simply share a link with collaborators for their review.\n\nMaps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems). You can use the “zoom” tool to take a closer look.\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty."
+    "text": "Interacting with this web report\nA few notes about using this report:\n\nAs of February 16, 2023 there has been no QAQC. This is a demo only.\nThis platform is web-hosted so you can simply share a link with collaborators for their review.\n\nMaps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems). You can use the “zoom” tool to take a closer look.\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty."
   },
   {
     "objectID": "index.html#location-of-this-assessment",
     "href": "index.html#location-of-this-assessment",
-    "title": "Huron-Manistee National Forests LANDFIRE Demo, 2023",
+    "title": "Map Zone 15 LANDFIRE Demo, 2023",
     "section": "Location of this assessment",
     "text": "Location of this assessment"
+  },
+  {
+    "objectID": "comparing.html",
+    "href": "comparing.html",
+    "title": "Comparisons",
+    "section": "",
+    "text": "Outputs on this page compare “Past” conditions with “Present” conditions. Results here are intended for exploration and illumination of issues to explore further. As noted on the “Present” page there are differences in the classification scheme so direct comparisons should be viewed with caution."
+  },
+  {
+    "objectID": "comparing.html#summary",
+    "href": "comparing.html#summary",
+    "title": "Comparisons",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "comparing.html#looking-at-broad-changes-vegetation-conversion",
+    "href": "comparing.html#looking-at-broad-changes-vegetation-conversion",
+    "title": "Comparisons",
+    "section": "Looking at broad changes, vegetation conversion",
+    "text": "Looking at broad changes, vegetation conversion\nThis interactive ‘chord’ diagram allows you to explore changes on the landscape. To use:\n\nHover over the outer bands to see connections. For example, if you over over the dark green outer band of the “Past Conifer” group you can see that some is now mapped as converted, some hardwood, etc., and that the majority is still mapped as conifer.\nAlternatively, if you hover over the orange outer band of “Hardwood” you can see what the present extent of hardwoods vegetation was historically.\nThe popups contain acres for the band."
+  },
+  {
+    "objectID": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
+    "href": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
+    "title": "Comparisons",
+    "section": "Succession classes for most dominant Biophysical Settings",
+    "text": "Succession classes for most dominant Biophysical Settings"
   },
   {
     "objectID": "past.html",
@@ -32,14 +60,14 @@
     "href": "past.html#summary",
     "title": "Past",
     "section": "Summary",
-    "text": "Summary\nHistorically the top 10 BpSs represented ~85% of the landscape, and ~ 3% of the total area of the Ottawa being disturbed yearly.\n\nCumulatively ~32K acres of the Ottawa would have been disturbed every year historically, with wind/weather/stress, insects/disease and surface fire being the dominant disturbances.\nThe Laurentian-Acadian Northern Hardwoods Forest-Hemlock, Boreal White Spruce-Fir-Hardwood Forest-Inland and\nBoreal Jack Pine-Black Spruce Forest - Pine Barrens BpSs covered over 50% of the Ottawa.\nWhile the Ottawa was not dominated by fire-dependent ecosystems, there were important pockets of ecosystems that would have had surfance fire frequently (< 20 years between fires)."
+    "text": "Summary"
   },
   {
-    "objectID": "past.html#chart-of-the-most-prevalent-biophysical-settings",
-    "href": "past.html#chart-of-the-most-prevalent-biophysical-settings",
+    "objectID": "past.html#chart-of-most-prevalent-biophysical-settings",
+    "href": "past.html#chart-of-most-prevalent-biophysical-settings",
     "title": "Past",
-    "section": "Chart of the most prevalent Biophysical Settings",
-    "text": "Chart of the most prevalent Biophysical Settings"
+    "section": "Chart of most prevalent Biophysical Settings",
+    "text": "Chart of most prevalent Biophysical Settings"
   },
   {
     "objectID": "past.html#map-of-most-prevalent-biophysical-settings",
@@ -75,5 +103,61 @@
     "title": "Past",
     "section": "Data table",
     "text": "Data table\n\n\n\n\n \n  \n    ZONE \n    BPS_MODEL \n    BPS_NAME \n    GROUPVEG \n    FRI_REPLAC \n    FRI_MIXED \n    FRI_SURFAC \n    FRG_NEW \n    ACRES \n    REL_PERCENT \n  \n \n\n  \n    51 \n    13620_51_63_64_65_66 \n    Laurentian-Acadian Northern Pine(-Oak) Forest \n    Hardwood-Conifer \n    309 \n    447 \n    65 \n    III-A \n    792,001 \n    38.9 \n  \n  \n    51 \n    14071_41_50_51 \n    Laurentian Pine-Oak Barrens \n    Hardwood-Conifer \n    109 \n    75 \n    5 \n    I-A \n    351,016 \n    17.3 \n  \n  \n    51 \n    13022_41_50_51 \n    Laurentian-Acadian Northern Hardwoods Forest-Hemlock \n    Hardwood \n    2,040 \n    NA \n    NA \n    V-B \n    329,316 \n    16.2 \n  \n  \n    51 \n    14810_41_50_51_63 \n    Laurentian-Acadian Alkaline Conifer-Hardwood Swamp \n    Riparian \n    989 \n    NA \n    NA \n    V-B \n    172,343 \n    8.5 \n  \n  \n    51 \n    13441_51 \n    Boreal Jack Pine-Black Spruce Forest-Pine Barrens \n    Conifer \n    34 \n    64 \n    7 \n    I-A \n    80,188 \n    3.9 \n  \n  \n    51 \n    14750_41_50_51_63_64_65_66 \n    Laurentian-Acadian Floodplain Systems \n    Riparian \n    NA \n    435 \n    68 \n    III-A \n    59,071 \n    2.9 \n  \n  \n    51 \n    13022_41_50_51 \n    Laurentian-Acadian Northern Hardwoods Forest-Hemlock \n    Hardwood \n    2,040 \n    NA \n    NA \n    V-B \n    54,577 \n    2.7 \n  \n  \n    51 \n    14072_41_50_51 \n    Laurentian Pine-Oak Barrens-Jack Pine \n    Conifer \n    25 \n    46 \n    18 \n    I-B \n    47,876 \n    2.4 \n  \n  \n    NA \n    NA \n    Open Water \n    Open Water \n    NA \n    NA \n    NA \n    NA \n    35,129 \n    1.7 \n  \n  \n    51 \n    13660_51_63_64_65_66 \n    Laurentian-Acadian Pine-Hemlock-Hardwood Forest \n    Hardwood-Conifer \n    482 \n    998 \n    289 \n    III-B \n    20,584 \n    1.0 \n  \n  \n    51 \n    14770_40_41_50_51 \n    Boreal Acidic Peatland Systems \n    Riparian \n    716 \n    NA \n    123 \n    III-B \n    19,902 \n    1.0 \n  \n  \n    51 \n    13652_51 \n    Boreal White Spruce-Fir-Hardwood Forest-Coastal \n    Conifer \n    872 \n    1,306 \n    NA \n    V-B \n    16,840 \n    0.8 \n  \n  \n    51 \n    13651_51 \n    Boreal White Spruce-Fir-Hardwood Forest-Inland \n    Conifer \n    490 \n    524 \n    NA \n    V-A \n    12,627 \n    0.6 \n  \n  \n    51 \n    14710_51_62 \n    Central Interior and Appalachian Floodplain Systems \n    Riparian \n    NA \n    429 \n    67 \n    III-A \n    11,331 \n    0.6 \n  \n  \n    51 \n    14440_41_50_51 \n    Eastern Boreal Floodplain \n    Hardwood \n    NA \n    581 \n    312 \n    V-A \n    8,102 \n    0.4 \n  \n  \n    51 \n    14120_39_40_41_42_43_50_51 \n    North-Central Interior Sand and Gravel Tallgrass Prairie \n    Grassland \n    4 \n    NA \n    87 \n    II-A \n    5,453 \n    0.3 \n  \n  \n    51 \n    14660_50_51 \n    Great Lakes Wooded Dune and Swale \n    Riparian \n    3,715 \n    536 \n    NA \n    V-A \n    5,271 \n    0.3 \n  \n  \n    51 \n    13110_51 \n    North-Central Interior Dry Oak Forest and Woodland \n    Hardwood \n    137 \n    111 \n    11 \n    I-B \n    3,801 \n    0.2 \n  \n  \n    51 \n    14790_41_42_47_48_50_51_53 \n    Central Interior and Appalachian Swamp Systems \n    Riparian \n    987 \n    NA \n    NA \n    V-B \n    4,068 \n    0.2 \n  \n  \n    51 \n    13130_47_50_51 \n    North-Central Interior Beech-Maple Forest \n    Hardwood \n    1,004 \n    NA \n    836 \n    V-A \n    1,705 \n    0.1 \n  \n  \n    NA \n    NA \n    Barren-Rock/Sand/Clay \n    Barren-Rock/Sand/Clay \n    NA \n    NA \n    NA \n    NA \n    596 \n    0.0 \n  \n  \n    51 \n    13100_51 \n    North-Central Interior Dry-Mesic Oak Forest and Woodland \n    Hardwood \n    161 \n    160 \n    11 \n    I-B \n    739 \n    0.0 \n  \n  \n    51 \n    13442_51 \n    Boreal Jack Pine-Black Spruce Forest-Spruce-Fir \n    Conifer \n    112 \n    NA \n    NA \n    IV-B \n    788 \n    0.0 \n  \n  \n    51 \n    14920_41_50_51_52_63 \n    Great Lakes Coastal Marsh Systems \n    Riparian \n    NA \n    NA \n    NA \n    NA \n    75 \n    0.0 \n  \n  \n    51 \n    14940_41_50_51 \n    Laurentian-Acadian Shrub-Herbaceous Wetland Systems \n    Riparian \n    18 \n    NA \n    NA \n    II-C \n    56 \n    0.0"
+  },
+  {
+    "objectID": "present.html",
+    "href": "present.html",
+    "title": "Present",
+    "section": "",
+    "text": "All outputs on this page generated with the most recent LANDFIRE Existing Vegetation Type, Cover and Height datasets, which represent conditions on the ground in 2020."
+  },
+  {
+    "objectID": "present.html#summary",
+    "href": "present.html#summary",
+    "title": "Present",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "present.html#chart-of-most-prevalent-existing-vegetation-types",
+    "href": "present.html#chart-of-most-prevalent-existing-vegetation-types",
+    "title": "Present",
+    "section": "Chart of most prevalent Existing Vegetation Types",
+    "text": "Chart of most prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "present.html#map-of-most-prevalent-existing-vegetation-types",
+    "href": "present.html#map-of-most-prevalent-existing-vegetation-types",
+    "title": "Present",
+    "section": "Map of most prevalent Existing Vegetation Types",
+    "text": "Map of most prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "present.html#chart-of-existing-vegetation-cover",
+    "href": "present.html#chart-of-existing-vegetation-cover",
+    "title": "Present",
+    "section": "Chart of Existing Vegetation Cover",
+    "text": "Chart of Existing Vegetation Cover"
+  },
+  {
+    "objectID": "present.html#map-of-existing-vegetation-cover",
+    "href": "present.html#map-of-existing-vegetation-cover",
+    "title": "Present",
+    "section": "Map of Existing Vegetation Cover",
+    "text": "Map of Existing Vegetation Cover"
+  },
+  {
+    "objectID": "present.html#chart-of-existing-vegetation-height",
+    "href": "present.html#chart-of-existing-vegetation-height",
+    "title": "Present",
+    "section": "Chart of Existing Vegetation Height",
+    "text": "Chart of Existing Vegetation Height"
+  },
+  {
+    "objectID": "present.html#map-of-existing-vegetation-height",
+    "href": "present.html#map-of-existing-vegetation-height",
+    "title": "Present",
+    "section": "Map of Existing Vegetation Height",
+    "text": "Map of Existing Vegetation Height"
   }
 ]
