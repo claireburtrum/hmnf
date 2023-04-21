@@ -1,0 +1,1353 @@
+BPS_ID,EVT_ID,freq,acres,BPS_NAME,bps_acres,EVT_NAME,evt_acres
+11,7292,157959,35129,BPS  Open Water,35129,EVT  Open Water,35129
+31,9101,2680,596,BPS  Barren-Rock/Sand/Clay,596,EVT  Great Lakes Dune,596
+1614,7238,153396,34114,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1614,7239,36530,8124,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1614,7240,7008,1559,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Hardwood Forest,10068
+1614,7241,8627,1919,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1614,7242,2864,637,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian Oak Barrens,6303
+1614,7243,233,52,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian Pine-Oak Barrens,1796
+1614,7295,228,51,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1614,7296,5537,1231,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Developed-Low Intensity,10451
+1614,7297,1263,281,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Developed-Medium Intensity,2575
+1614,7298,388,86,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Developed-High Intensity,771
+1614,7299,36604,8141,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Developed-Roads,70702
+1614,7301,168741,37527,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1614,7302,610887,135858,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1614,7310,15557,3460,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1614,7311,9082,2020,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1614,7313,2750,612,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Beech-Maple Forest,4280
+1614,7362,30442,6770,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1614,7366,9906,2203,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1614,7395,409,91,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Oak Barrens Woodland,2181
+1614,7407,8784,1954,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian Pine Barrens,22396
+1614,7412,139,31,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1614,7466,5,1,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Great Lakes Wooded Dune and Swale,1348
+1614,7481,11918,2651,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1614,7518,5,1,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Wet Flatwoods,30
+1614,7905,20193,4491,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1614,7906,3884,864,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1614,7907,3529,785,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1614,7908,5388,1198,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1614,7909,1829,407,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1614,7925,1766,393,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1614,7926,920,205,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1614,7927,533,119,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1614,7928,40,9,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Developed Shrubland,62
+1614,7929,426,95,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1614,7970,13262,2949,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Orchard,7450
+1614,7971,95,21,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Vineyard,63
+1614,7972,99,22,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1614,7973,13762,3061,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1614,7974,42851,9530,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Row Crop,29381
+1614,7975,45863,10200,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1614,7976,28899,6427,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1614,7977,14340,3189,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1614,7978,3586,798,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Eastern Cool Temperate Wheat,1903
+1614,9055,203,45,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Boreal-Laurentian Bog,2471
+1614,9056,1088,242,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1614,9057,16,4,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1614,9088,14,3,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1614,9089,2669,594,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1614,9112,21314,4740,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1614,9114,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Alkaline Fen,277
+1614,9117,1400,311,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Floodplain Forest,16724
+1614,9118,261,58,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1614,9120,311,69,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Wet Meadow,7301
+1614,9177,67,15,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1614,9178,383,85,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1614,9179,97,22,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Floodplain Forest,2750
+1614,9180,11,2,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Freshwater Marsh,253
+1614,9183,19,4,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Shrub Swamp,374
+1614,9192,31,7,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern Atlantic Coastal Plain Pond,722
+1614,9202,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern Great Lakes Coastal Marsh,406
+1614,9203,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern Great Lakes Interdunal Wetland,83
+1614,9295,14,3,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1614,9312,95574,21255,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northeastern North American Temperate Forest Plantation,198063
+1614,9314,375,83,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1614,9315,17879,3976,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern & Central Native Ruderal Forest,15468
+1614,9317,1737,386,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern & Central Ruderal Shrubland,3873
+1614,9318,60,13,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1614,9617,18,4,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1614,9620,221,49,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Laurentian-Acadian Shrub Swamp,4200
+1614,9683,26,6,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  North-Central Interior Wet Meadow,401
+1614,9817,14412,3205,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,329316,EVT  Northern & Central Ruderal Meadow,30745
+1615,7238,15529,3454,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1615,7239,10145,2256,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1615,7240,1045,232,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Hardwood Forest,10068
+1615,7241,3166,704,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1615,7242,373,83,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian Oak Barrens,6303
+1615,7243,73,16,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian Pine-Oak Barrens,1796
+1615,7295,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1615,7296,1676,373,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Developed-Low Intensity,10451
+1615,7297,342,76,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Developed-Medium Intensity,2575
+1615,7298,59,13,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Developed-High Intensity,771
+1615,7299,9813,2182,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Developed-Roads,70702
+1615,7301,34198,7605,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1615,7302,67682,15052,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1615,7310,2067,460,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1615,7311,1136,253,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1615,7313,739,164,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Beech-Maple Forest,4280
+1615,7362,7837,1743,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1615,7366,3327,740,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1615,7395,11,2,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Oak Barrens Woodland,2181
+1615,7407,1777,395,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian Pine Barrens,22396
+1615,7412,11,2,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1615,7481,2417,538,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1615,7518,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Wet Flatwoods,30
+1615,7905,3308,736,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1615,7906,893,199,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1615,7907,591,131,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1615,7908,1729,385,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1615,7909,1063,236,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1615,7925,374,83,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1615,7926,254,56,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1615,7927,179,40,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1615,7928,4,1,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Developed Shrubland,62
+1615,7929,145,32,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1615,7970,1604,357,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Orchard,7450
+1615,7971,15,3,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Vineyard,63
+1615,7972,24,5,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1615,7973,3379,751,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1615,7974,8472,1884,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Row Crop,29381
+1615,7975,12107,2693,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1615,7976,10012,2227,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1615,7977,10402,2313,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1615,7978,403,90,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Eastern Cool Temperate Wheat,1903
+1615,9055,35,8,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Boreal-Laurentian Bog,2471
+1615,9056,231,51,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1615,9057,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1615,9088,1,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1615,9089,1231,274,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1615,9112,4506,1002,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1615,9117,173,38,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Floodplain Forest,16724
+1615,9118,88,20,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1615,9120,83,18,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Wet Meadow,7301
+1615,9177,1,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1615,9178,5,1,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1615,9183,3,1,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Shrub Swamp,374
+1615,9312,11678,2597,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Northeastern North American Temperate Forest Plantation,198063
+1615,9314,90,20,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1615,9315,4314,959,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Northern & Central Native Ruderal Forest,15468
+1615,9317,307,68,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Northern & Central Ruderal Shrubland,3873
+1615,9318,15,3,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1615,9617,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1615,9620,54,12,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Laurentian-Acadian Shrub Swamp,4200
+1615,9682,2,0,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  North-Central Interior Graminoid Alkaline Fen,4
+1615,9817,4199,934,BPS  Laurentian-Acadian Northern Hardwoods Forest-Hemlock,54577,EVT  Northern & Central Ruderal Meadow,30745
+1617,7238,8,2,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1617,7239,11,2,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1617,7240,3,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Hardwood Forest,10068
+1617,7241,5,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1617,7242,2,0,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian Oak Barrens,6303
+1617,7295,4,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1617,7296,238,53,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Developed-Low Intensity,10451
+1617,7297,219,49,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Developed-Medium Intensity,2575
+1617,7298,79,18,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Developed-High Intensity,771
+1617,7299,342,76,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Developed-Roads,70702
+1617,7301,5,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1617,7302,245,54,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1617,7310,226,50,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1617,7311,365,81,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1617,7313,178,40,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Interior Beech-Maple Forest,4280
+1617,7362,9,2,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1617,7366,1,0,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1617,7395,55,12,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Oak Barrens Woodland,2181
+1617,7407,1,0,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian Pine Barrens,22396
+1617,7412,17,4,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1617,7481,2,0,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1617,7905,136,30,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1617,7906,7,2,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1617,7907,17,4,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1617,7908,73,16,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1617,7909,45,10,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1617,7925,29,6,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1617,7926,7,2,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1617,7927,3,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1617,7928,1,0,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Developed Shrubland,62
+1617,7929,5,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1617,7970,25,6,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Orchard,7450
+1617,7972,3,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1617,7973,28,6,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1617,7974,124,28,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Row Crop,29381
+1617,7975,159,35,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1617,7976,65,14,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1617,7977,14,3,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1617,7978,4,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Eastern Cool Temperate Wheat,1903
+1617,9112,2,0,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1617,9178,3,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1617,9179,3,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  North-Central Interior Floodplain Forest,2750
+1617,9203,4,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Northern Great Lakes Interdunal Wetland,83
+1617,9312,296,66,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Northeastern North American Temperate Forest Plantation,198063
+1617,9315,72,16,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Northern & Central Native Ruderal Forest,15468
+1617,9317,16,4,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Northern & Central Ruderal Shrubland,3873
+1617,9601,4,1,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Great Lakes Dune Grassland,39
+1617,9817,161,36,BPS  North-Central Interior Dry-Mesic Oak Forest and Woodland,739,EVT  Northern & Central Ruderal Meadow,30745
+1618,7238,2322,516,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1618,7239,889,198,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1618,7240,28,6,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Hardwood Forest,10068
+1618,7241,86,19,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1618,7242,164,36,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian Oak Barrens,6303
+1618,7243,28,6,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian Pine-Oak Barrens,1796
+1618,7295,2,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1618,7296,283,63,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Developed-Low Intensity,10451
+1618,7297,57,13,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Developed-Medium Intensity,2575
+1618,7298,6,1,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Developed-High Intensity,771
+1618,7299,1180,262,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Developed-Roads,70702
+1618,7301,468,104,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1618,7302,1597,355,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1618,7310,392,87,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1618,7311,287,64,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1618,7313,58,13,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior Beech-Maple Forest,4280
+1618,7362,859,191,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1618,7366,172,38,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1618,7395,53,12,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Oak Barrens Woodland,2181
+1618,7407,416,93,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian Pine Barrens,22396
+1618,7412,41,9,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1618,7481,122,27,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1618,7905,177,39,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1618,7906,81,18,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1618,7907,64,14,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1618,7908,209,46,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1618,7909,43,10,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1618,7925,45,10,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1618,7926,40,9,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1618,7927,19,4,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1618,7929,17,4,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1618,7970,315,70,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Orchard,7450
+1618,7971,2,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Vineyard,63
+1618,7972,1,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1618,7973,326,73,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1618,7974,1837,409,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Row Crop,29381
+1618,7975,606,135,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1618,7976,643,143,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1618,7977,411,91,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1618,7978,80,18,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Eastern Cool Temperate Wheat,1903
+1618,9055,4,1,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Boreal-Laurentian Bog,2471
+1618,9056,19,4,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1618,9089,33,7,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1618,9112,954,212,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1618,9117,4,1,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Floodplain Forest,16724
+1618,9118,1,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1618,9120,9,2,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Wet Meadow,7301
+1618,9177,3,1,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1618,9178,14,3,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1618,9179,1,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior Floodplain Forest,2750
+1618,9183,1,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  North-Central Interior Shrub Swamp,374
+1618,9192,2,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northern Atlantic Coastal Plain Pond,722
+1618,9295,1,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1618,9312,632,141,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northeastern North American Temperate Forest Plantation,198063
+1618,9314,29,6,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1618,9315,568,126,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northern & Central Native Ruderal Forest,15468
+1618,9317,14,3,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northern & Central Ruderal Shrubland,3873
+1618,9318,2,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1618,9617,1,0,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1618,9817,372,83,BPS  North-Central Interior Dry Oak Forest and Woodland,3801,EVT  Northern & Central Ruderal Meadow,30745
+1619,7238,8,2,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1619,7239,8,2,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1619,7240,2,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Hardwood Forest,10068
+1619,7241,11,2,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1619,7242,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian Oak Barrens,6303
+1619,7295,7,2,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1619,7296,360,80,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Developed-Low Intensity,10451
+1619,7297,422,94,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Developed-Medium Intensity,2575
+1619,7298,378,84,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Developed-High Intensity,771
+1619,7299,652,145,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Developed-Roads,70702
+1619,7301,13,3,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1619,7302,78,17,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1619,7310,400,89,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1619,7311,1582,352,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1619,7313,238,53,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Beech-Maple Forest,4280
+1619,7366,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1619,7395,274,61,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Oak Barrens Woodland,2181
+1619,7412,28,6,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1619,7481,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1619,7518,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Wet Flatwoods,30
+1619,7905,212,47,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1619,7906,31,7,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1619,7907,47,10,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1619,7908,149,33,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1619,7909,102,23,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1619,7925,68,15,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1619,7926,11,2,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1619,7927,28,6,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1619,7928,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Developed Shrubland,62
+1619,7929,37,8,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1619,7970,21,5,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Orchard,7450
+1619,7971,4,1,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Vineyard,63
+1619,7972,57,13,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1619,7973,8,2,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1619,7974,147,33,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Row Crop,29381
+1619,7975,28,6,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1619,7976,129,29,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1619,7977,85,19,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1619,7978,2,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Eastern Cool Temperate Wheat,1903
+1619,9056,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1619,9057,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1619,9112,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1619,9118,2,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1619,9177,2,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1619,9178,40,9,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1619,9179,111,25,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Floodplain Forest,2750
+1619,9180,12,3,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Freshwater Marsh,253
+1619,9183,2,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Shrub Swamp,374
+1619,9312,963,214,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Northeastern North American Temperate Forest Plantation,198063
+1619,9314,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1619,9315,279,62,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Northern & Central Native Ruderal Forest,15468
+1619,9317,30,7,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Northern & Central Ruderal Shrubland,3873
+1619,9318,1,0,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1619,9683,17,4,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  North-Central Interior Wet Meadow,401
+1619,9817,572,127,BPS  North-Central Interior Beech-Maple Forest,1705,EVT  Northern & Central Ruderal Meadow,30745
+1620,7238,72565,16138,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1620,7239,34917,7765,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1620,7240,1491,332,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Hardwood Forest,10068
+1620,7241,2882,641,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1620,7242,1103,245,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian Oak Barrens,6303
+1620,7243,1632,363,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian Pine-Oak Barrens,1796
+1620,7295,4,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1620,7296,1246,277,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Developed-Low Intensity,10451
+1620,7297,219,49,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Developed-Medium Intensity,2575
+1620,7298,38,8,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Developed-High Intensity,771
+1620,7299,14180,3154,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Developed-Roads,70702
+1620,7301,36448,8106,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1620,7302,39653,8819,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1620,7310,516,115,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1620,7311,1,0,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1620,7362,27361,6085,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1620,7366,9283,2064,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1620,7407,5947,1323,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian Pine Barrens,22396
+1620,7466,125,28,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Great Lakes Wooded Dune and Swale,1348
+1620,7481,2294,510,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1620,7905,5399,1201,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1620,7906,3390,754,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1620,7907,1168,260,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1620,7908,1503,334,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1620,7909,429,95,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1620,7925,256,57,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1620,7926,333,74,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1620,7927,128,28,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1620,7928,5,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Developed Shrubland,62
+1620,7929,74,16,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1620,7970,60,13,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Orchard,7450
+1620,7973,191,42,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1620,7974,180,40,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Row Crop,29381
+1620,7975,266,59,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1620,7976,992,221,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1620,7977,1147,255,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1620,7978,29,6,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Eastern Cool Temperate Wheat,1903
+1620,9055,21,5,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Boreal-Laurentian Bog,2471
+1620,9056,1006,224,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1620,9057,4,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1620,9088,9,2,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1620,9089,2437,542,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1620,9112,50955,11332,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1620,9114,5,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Alkaline Fen,277
+1620,9117,171,38,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Floodplain Forest,16724
+1620,9118,70,16,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1620,9120,117,26,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Wet Meadow,7301
+1620,9202,5,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northern Great Lakes Coastal Marsh,406
+1620,9203,10,2,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northern Great Lakes Interdunal Wetland,83
+1620,9295,4,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1620,9312,32521,7233,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northeastern North American Temperate Forest Plantation,198063
+1620,9315,419,93,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northern & Central Native Ruderal Forest,15468
+1620,9317,1388,309,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northern & Central Ruderal Shrubland,3873
+1620,9318,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1620,9601,1,0,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Great Lakes Dune Grassland,39
+1620,9617,5,1,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1620,9620,36,8,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Laurentian-Acadian Shrub Swamp,4200
+1620,9817,3924,873,BPS  Boreal Jack Pine-Black Spruce Forest-Pine Barrens,80188,EVT  Northern & Central Ruderal Meadow,30745
+1621,7238,84,19,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1621,7239,45,10,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1621,7240,29,6,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Hardwood Forest,10068
+1621,7241,49,11,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1621,7242,1,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian Oak Barrens,6303
+1621,7296,44,10,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Developed-Low Intensity,10451
+1621,7298,1,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Developed-High Intensity,771
+1621,7299,267,59,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Developed-Roads,70702
+1621,7301,406,90,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1621,7302,875,195,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1621,7310,6,1,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1621,7313,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  North-Central Interior Beech-Maple Forest,4280
+1621,7362,145,32,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1621,7366,116,26,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1621,7407,25,6,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian Pine Barrens,22396
+1621,7412,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1621,7481,440,98,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1621,7905,36,8,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1621,7906,13,3,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1621,7907,25,6,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1621,7908,18,4,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1621,7909,7,2,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1621,7925,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1621,7926,8,2,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1621,7927,4,1,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1621,7970,49,11,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Orchard,7450
+1621,7973,58,13,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1621,7974,120,27,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Row Crop,29381
+1621,7975,73,16,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1621,7976,116,26,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1621,7977,16,4,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1621,7978,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Eastern Cool Temperate Wheat,1903
+1621,9055,12,3,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Boreal-Laurentian Bog,2471
+1621,9056,20,4,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1621,9089,6,1,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1621,9112,39,9,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1621,9117,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Floodplain Forest,16724
+1621,9118,2,0,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1621,9120,19,4,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Wet Meadow,7301
+1621,9312,93,21,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Northeastern North American Temperate Forest Plantation,198063
+1621,9314,20,4,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1621,9315,126,28,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Northern & Central Native Ruderal Forest,15468
+1621,9317,19,4,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Northern & Central Ruderal Shrubland,3873
+1621,9318,13,3,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1621,9620,26,6,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Laurentian-Acadian Shrub Swamp,4200
+1621,9817,62,14,BPS  Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,788,EVT  Northern & Central Ruderal Meadow,30745
+1622,7238,640172,142371,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1622,7239,202576,45052,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1622,7240,27121,6032,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Hardwood Forest,10068
+1622,7241,29975,6666,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1622,7242,17771,3952,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian Oak Barrens,6303
+1622,7243,3518,782,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian Pine-Oak Barrens,1796
+1622,7290,14,3,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Oak Barrens Herbaceous,4
+1622,7295,436,97,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1622,7296,23419,5208,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Developed-Low Intensity,10451
+1622,7297,5677,1263,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Developed-Medium Intensity,2575
+1622,7298,1633,363,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Developed-High Intensity,771
+1622,7299,142708,31738,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Developed-Roads,70702
+1622,7301,187136,41618,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1622,7302,718415,159772,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1622,7310,111662,24833,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1622,7311,135190,30066,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1622,7313,12922,2874,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Beech-Maple Forest,4280
+1622,7362,155942,34681,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1622,7366,36332,8080,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1622,7395,8099,1801,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Oak Barrens Woodland,2181
+1622,7407,53012,11790,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian Pine Barrens,22396
+1622,7412,3886,864,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1622,7466,180,40,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Great Lakes Wooded Dune and Swale,1348
+1622,7481,25192,5603,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1622,7518,28,6,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Wet Flatwoods,30
+1622,7905,56904,12655,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1622,7906,21381,4755,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1622,7907,15520,3452,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1622,7908,16458,3660,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1622,7909,4048,900,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1622,7925,6443,1433,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1622,7926,4200,934,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1622,7927,1850,411,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1622,7928,138,31,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Developed Shrubland,62
+1622,7929,1480,329,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1622,7970,16038,3567,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Orchard,7450
+1622,7971,149,33,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Vineyard,63
+1622,7972,335,75,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1622,7973,30177,6711,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1622,7974,70035,15575,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Row Crop,29381
+1622,7975,57154,12711,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1622,7976,50666,11268,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1622,7977,27757,6173,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1622,7978,3775,840,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Eastern Cool Temperate Wheat,1903
+1622,9055,529,118,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Boreal-Laurentian Bog,2471
+1622,9056,5568,1238,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1622,9057,67,15,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1622,9088,53,12,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1622,9089,4659,1036,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1622,9102,1,0,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Great Lakes Freshwater Estuary and Delta,2
+1622,9112,148092,32935,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1622,9114,32,7,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Alkaline Fen,277
+1622,9117,2308,513,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Floodplain Forest,16724
+1622,9118,731,163,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1622,9120,759,169,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Wet Meadow,7301
+1622,9177,453,101,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1622,9178,1346,299,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1622,9179,479,107,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Floodplain Forest,2750
+1622,9180,77,17,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Freshwater Marsh,253
+1622,9183,80,18,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Shrub Swamp,374
+1622,9192,475,106,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern Atlantic Coastal Plain Pond,722
+1622,9202,11,2,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern Great Lakes Coastal Marsh,406
+1622,9203,3,1,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern Great Lakes Interdunal Wetland,83
+1622,9295,18,4,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1622,9312,377965,84057,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northeastern North American Temperate Forest Plantation,198063
+1622,9314,941,209,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1622,9315,40619,9033,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern & Central Native Ruderal Forest,15468
+1622,9317,6001,1335,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern & Central Ruderal Shrubland,3873
+1622,9318,174,39,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1622,9601,165,37,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Great Lakes Dune Grassland,39
+1622,9617,24,5,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1622,9620,313,70,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Laurentian-Acadian Shrub Swamp,4200
+1622,9683,143,32,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  North-Central Interior Wet Meadow,401
+1622,9817,41633,9259,BPS  Laurentian-Acadian Northern Pine(-Oak) Forest,792001,EVT  Northern & Central Ruderal Meadow,30745
+1623,7238,1633,363,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1623,7239,2410,536,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1623,7240,216,48,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Hardwood Forest,10068
+1623,7241,1015,226,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1623,7242,40,9,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian Oak Barrens,6303
+1623,7243,15,3,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian Pine-Oak Barrens,1796
+1623,7296,405,90,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Developed-Low Intensity,10451
+1623,7297,98,22,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Developed-Medium Intensity,2575
+1623,7298,16,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Developed-High Intensity,771
+1623,7299,3320,738,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Developed-Roads,70702
+1623,7301,5283,1175,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1623,7302,4596,1022,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1623,7310,150,33,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1623,7311,127,28,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1623,7313,29,6,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior Beech-Maple Forest,4280
+1623,7362,5678,1263,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1623,7366,5388,1198,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1623,7395,5,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Oak Barrens Woodland,2181
+1623,7407,464,103,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian Pine Barrens,22396
+1623,7466,117,26,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Great Lakes Wooded Dune and Swale,1348
+1623,7481,4216,938,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1623,7518,3,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior Wet Flatwoods,30
+1623,7905,487,108,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1623,7906,586,130,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1623,7907,290,64,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1623,7908,309,69,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1623,7909,122,27,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1623,7925,37,8,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1623,7926,145,32,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1623,7927,54,12,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1623,7928,3,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Developed Shrubland,62
+1623,7929,42,9,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1623,7970,80,18,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Orchard,7450
+1623,7972,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1623,7973,220,49,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1623,7974,1021,227,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Row Crop,29381
+1623,7975,1113,248,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1623,7976,1099,244,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1623,7977,1771,394,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1623,7978,51,11,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Eastern Cool Temperate Wheat,1903
+1623,9055,20,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Boreal-Laurentian Bog,2471
+1623,9056,505,112,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1623,9088,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1623,9089,2655,590,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1623,9112,6256,1391,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1623,9114,3,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Alkaline Fen,277
+1623,9117,681,151,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Floodplain Forest,16724
+1623,9118,217,48,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1623,9120,262,58,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Wet Meadow,7301
+1623,9177,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1623,9178,8,2,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1623,9179,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  North-Central Interior Floodplain Forest,2750
+1623,9202,29,6,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern Great Lakes Coastal Marsh,406
+1623,9203,4,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern Great Lakes Interdunal Wetland,83
+1623,9295,2,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1623,9312,1267,282,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northeastern North American Temperate Forest Plantation,198063
+1623,9314,29,6,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1623,9315,384,85,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern & Central Native Ruderal Forest,15468
+1623,9317,101,22,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern & Central Ruderal Shrubland,3873
+1623,9318,6,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1623,9617,18,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1623,9620,80,18,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Laurentian-Acadian Shrub Swamp,4200
+1623,9817,1593,354,BPS  Boreal White Spruce-Fir-Hardwood Forest-Inland,12627,EVT  Northern & Central Ruderal Meadow,30745
+1624,7238,3581,796,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1624,7239,3585,797,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1624,7240,348,77,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Hardwood Forest,10068
+1624,7241,982,218,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1624,7242,100,22,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian Oak Barrens,6303
+1624,7243,15,3,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian Pine-Oak Barrens,1796
+1624,7295,2,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1624,7296,426,95,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Developed-Low Intensity,10451
+1624,7297,88,20,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Developed-Medium Intensity,2575
+1624,7298,12,3,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Developed-High Intensity,771
+1624,7299,3591,799,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Developed-Roads,70702
+1624,7301,7063,1571,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1624,7302,12723,2830,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1624,7310,577,128,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1624,7311,406,90,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1624,7313,111,25,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Beech-Maple Forest,4280
+1624,7362,7088,1576,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1624,7366,3766,838,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1624,7395,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Oak Barrens Woodland,2181
+1624,7407,708,157,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian Pine Barrens,22396
+1624,7412,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1624,7466,46,10,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Great Lakes Wooded Dune and Swale,1348
+1624,7481,5737,1276,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1624,7905,763,170,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1624,7906,268,60,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1624,7907,345,77,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1624,7908,255,57,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1624,7909,118,26,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1624,7925,51,11,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1624,7926,88,20,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1624,7927,43,10,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1624,7928,3,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Developed Shrubland,62
+1624,7929,60,13,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1624,7970,597,133,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Orchard,7450
+1624,7971,2,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Vineyard,63
+1624,7972,4,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1624,7973,426,95,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1624,7974,1212,270,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Row Crop,29381
+1624,7975,2543,566,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1624,7976,2713,603,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1624,7977,1251,278,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1624,7978,173,38,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Eastern Cool Temperate Wheat,1903
+1624,9055,76,17,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Boreal-Laurentian Bog,2471
+1624,9056,522,116,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1624,9057,8,2,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1624,9089,1975,439,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1624,9112,3617,804,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1624,9114,4,1,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Alkaline Fen,277
+1624,9117,627,139,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Floodplain Forest,16724
+1624,9118,19,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1624,9120,361,80,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Wet Meadow,7301
+1624,9178,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1624,9180,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Freshwater Marsh,253
+1624,9183,16,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Shrub Swamp,374
+1624,9202,19,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern Great Lakes Coastal Marsh,406
+1624,9203,17,4,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern Great Lakes Interdunal Wetland,83
+1624,9312,1585,352,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northeastern North American Temperate Forest Plantation,198063
+1624,9314,268,60,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1624,9315,2122,472,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern & Central Native Ruderal Forest,15468
+1624,9317,247,55,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern & Central Ruderal Shrubland,3873
+1624,9318,190,42,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1624,9617,26,6,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1624,9620,140,31,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Laurentian-Acadian Shrub Swamp,4200
+1624,9683,1,0,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  North-Central Interior Wet Meadow,401
+1624,9817,2008,447,BPS  Boreal White Spruce-Fir-Hardwood Forest-Coastal,16840,EVT  Northern & Central Ruderal Meadow,30745
+1625,7238,8010,1781,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1625,7239,5360,1192,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1625,7240,780,173,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Hardwood Forest,10068
+1625,7241,2076,462,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1625,7242,144,32,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian Oak Barrens,6303
+1625,7243,29,6,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian Pine-Oak Barrens,1796
+1625,7295,65,14,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1625,7296,593,132,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Developed-Low Intensity,10451
+1625,7297,84,19,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Developed-Medium Intensity,2575
+1625,7298,15,3,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Developed-High Intensity,771
+1625,7299,3847,856,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Developed-Roads,70702
+1625,7301,12242,2723,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1625,7302,17882,3977,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1625,7310,291,65,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1625,7311,644,143,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1625,7313,71,16,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior Beech-Maple Forest,4280
+1625,7362,5930,1319,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1625,7366,3357,747,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1625,7395,1,0,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Oak Barrens Woodland,2181
+1625,7407,474,105,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian Pine Barrens,22396
+1625,7412,11,2,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1625,7466,1,0,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Great Lakes Wooded Dune and Swale,1348
+1625,7481,2378,529,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1625,7518,4,1,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior Wet Flatwoods,30
+1625,7905,1046,233,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1625,7906,348,77,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1625,7907,366,81,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1625,7908,459,102,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1625,7909,313,70,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1625,7925,97,22,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1625,7926,116,26,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1625,7927,54,12,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1625,7928,4,1,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Developed Shrubland,62
+1625,7929,35,8,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1625,7970,451,100,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Orchard,7450
+1625,7971,7,2,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Vineyard,63
+1625,7972,3,1,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1625,7973,603,134,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1625,7974,1522,338,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Row Crop,29381
+1625,7975,3814,848,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1625,7976,2303,512,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1625,7977,4348,967,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1625,7978,239,53,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Eastern Cool Temperate Wheat,1903
+1625,9055,30,7,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Boreal-Laurentian Bog,2471
+1625,9056,407,91,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1625,9057,2,0,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1625,9088,5,1,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1625,9089,801,178,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1625,9112,4194,933,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1625,9117,333,74,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Floodplain Forest,16724
+1625,9118,48,11,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1625,9120,56,12,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Wet Meadow,7301
+1625,9177,7,2,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1625,9183,4,1,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  North-Central Interior Shrub Swamp,374
+1625,9203,1,0,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northern Great Lakes Interdunal Wetland,83
+1625,9295,1,0,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1625,9312,3992,888,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northeastern North American Temperate Forest Plantation,198063
+1625,9314,52,12,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1625,9315,901,200,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northern & Central Native Ruderal Forest,15468
+1625,9317,109,24,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northern & Central Ruderal Shrubland,3873
+1625,9318,7,2,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1625,9601,2,0,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Great Lakes Dune Grassland,39
+1625,9617,3,1,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1625,9620,41,9,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Laurentian-Acadian Shrub Swamp,4200
+1625,9817,1141,254,BPS  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,20584,EVT  Northern & Central Ruderal Meadow,30745
+1628,7238,142152,31614,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1628,7239,84124,18709,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1628,7240,4427,985,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Hardwood Forest,10068
+1628,7241,8540,1899,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1628,7242,3934,875,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian Oak Barrens,6303
+1628,7243,1820,405,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian Pine-Oak Barrens,1796
+1628,7290,1,0,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Oak Barrens Herbaceous,4
+1628,7295,14,3,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1628,7296,9974,2218,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Developed-Low Intensity,10451
+1628,7297,2568,571,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Developed-Medium Intensity,2575
+1628,7298,759,169,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Developed-High Intensity,771
+1628,7299,83914,18662,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Developed-Roads,70702
+1628,7301,62972,14005,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1628,7302,46196,10274,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1628,7310,7521,1673,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1628,7311,12929,2875,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1628,7313,995,221,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Beech-Maple Forest,4280
+1628,7362,124136,27607,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1628,7366,24783,5512,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1628,7395,390,87,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Oak Barrens Woodland,2181
+1628,7407,20932,4655,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian Pine Barrens,22396
+1628,7412,380,85,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1628,7466,14,3,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Great Lakes Wooded Dune and Swale,1348
+1628,7481,7362,1637,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1628,7518,9,2,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Wet Flatwoods,30
+1628,7905,12292,2734,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1628,7906,24978,5555,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1628,7907,6352,1413,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1628,7908,12537,2788,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1628,7909,2475,550,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1628,7925,1195,266,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1628,7926,3130,696,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1628,7927,526,117,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1628,7928,35,8,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Developed Shrubland,62
+1628,7929,559,124,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1628,7970,188,42,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Orchard,7450
+1628,7971,7,2,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Vineyard,63
+1628,7972,4,1,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1628,7973,798,177,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1628,7974,1286,286,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Row Crop,29381
+1628,7975,1019,227,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1628,7976,4179,929,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1628,7977,4535,1009,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1628,7978,74,16,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Eastern Cool Temperate Wheat,1903
+1628,9055,171,38,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Boreal-Laurentian Bog,2471
+1628,9056,9100,2024,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1628,9057,8,2,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1628,9088,31,7,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1628,9089,4736,1053,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1628,9112,464117,103217,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1628,9114,4,1,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Alkaline Fen,277
+1628,9117,427,95,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Floodplain Forest,16724
+1628,9118,467,104,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1628,9120,491,109,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Wet Meadow,7301
+1628,9177,31,7,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1628,9178,110,24,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1628,9179,16,4,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Floodplain Forest,2750
+1628,9183,6,1,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Shrub Swamp,374
+1628,9192,27,6,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern Atlantic Coastal Plain Pond,722
+1628,9202,2,0,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern Great Lakes Coastal Marsh,406
+1628,9203,3,1,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern Great Lakes Interdunal Wetland,83
+1628,9295,3,1,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1628,9312,306488,68161,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northeastern North American Temperate Forest Plantation,198063
+1628,9314,8,2,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1628,9315,604,134,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern & Central Native Ruderal Forest,15468
+1628,9317,5507,1225,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern & Central Ruderal Shrubland,3873
+1628,9318,18,4,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1628,9617,2,0,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1628,9620,105,23,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Laurentian-Acadian Shrub Swamp,4200
+1628,9683,9,2,BPS  Laurentian Pine-Oak Barrens,351016,EVT  North-Central Interior Wet Meadow,401
+1628,9817,58843,13086,BPS  Laurentian Pine-Oak Barrens,351016,EVT  Northern & Central Ruderal Meadow,30745
+1629,7238,45684,10160,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1629,7239,25541,5680,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1629,7240,955,212,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Hardwood Forest,10068
+1629,7241,1697,377,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1629,7242,1184,263,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian Oak Barrens,6303
+1629,7243,535,119,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian Pine-Oak Barrens,1796
+1629,7295,26,6,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1629,7296,926,206,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Developed-Low Intensity,10451
+1629,7297,199,44,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Developed-Medium Intensity,2575
+1629,7298,54,12,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Developed-High Intensity,771
+1629,7299,10024,2229,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Developed-Roads,70702
+1629,7301,14125,3141,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1629,7302,6167,1372,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1629,7310,729,162,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1629,7362,17893,3979,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1629,7366,5522,1228,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1629,7407,2530,563,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian Pine Barrens,22396
+1629,7412,18,4,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1629,7466,7,2,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Great Lakes Wooded Dune and Swale,1348
+1629,7481,3405,757,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1629,7905,2750,612,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1629,7906,2206,491,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1629,7907,1113,248,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1629,7908,1035,230,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1629,7909,259,58,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1629,7925,172,38,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1629,7926,336,75,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1629,7927,60,13,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1629,7928,2,0,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Developed Shrubland,62
+1629,7929,62,14,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1629,7970,34,8,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Orchard,7450
+1629,7971,1,0,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Vineyard,63
+1629,7973,97,22,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1629,7974,96,21,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Row Crop,29381
+1629,7975,584,130,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1629,7976,657,146,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1629,7977,1063,236,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1629,7978,8,2,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Eastern Cool Temperate Wheat,1903
+1629,9055,73,16,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Boreal-Laurentian Bog,2471
+1629,9056,911,203,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1629,9057,6,1,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1629,9088,1,0,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1629,9089,1276,284,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1629,9112,33399,7428,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1629,9114,1,0,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Alkaline Fen,277
+1629,9117,553,123,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Floodplain Forest,16724
+1629,9118,120,27,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1629,9120,153,34,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Wet Meadow,7301
+1629,9192,1,0,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northern Atlantic Coastal Plain Pond,722
+1629,9312,27785,6179,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northeastern North American Temperate Forest Plantation,198063
+1629,9314,4,1,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1629,9315,476,106,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northern & Central Native Ruderal Forest,15468
+1629,9317,684,152,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northern & Central Ruderal Shrubland,3873
+1629,9318,31,7,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1629,9617,3,1,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1629,9620,49,11,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Laurentian-Acadian Shrub Swamp,4200
+1629,9817,1994,443,BPS  Laurentian Pine-Oak Barrens-Jack Pine,47876,EVT  Northern & Central Ruderal Meadow,30745
+1631,7238,1849,411,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1631,7239,476,106,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1631,7240,21,5,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Hardwood Forest,10068
+1631,7241,16,4,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1631,7242,346,77,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian Oak Barrens,6303
+1631,7243,74,16,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian Pine-Oak Barrens,1796
+1631,7296,250,56,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Developed-Low Intensity,10451
+1631,7297,46,10,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Developed-Medium Intensity,2575
+1631,7298,3,1,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Developed-High Intensity,771
+1631,7299,1134,252,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Developed-Roads,70702
+1631,7301,26,6,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1631,7302,189,42,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1631,7310,97,22,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1631,7311,24,5,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1631,7313,1,0,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  North-Central Interior Beech-Maple Forest,4280
+1631,7362,1085,241,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1631,7366,94,21,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1631,7407,1699,378,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian Pine Barrens,22396
+1631,7412,247,55,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1631,7481,82,18,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1631,7905,34,8,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1631,7906,322,72,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1631,7907,55,12,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1631,7908,100,22,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1631,7909,11,2,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1631,7925,21,5,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1631,7926,90,20,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1631,7927,13,3,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1631,7929,15,3,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1631,7970,27,6,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Orchard,7450
+1631,7973,224,50,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1631,7974,1332,296,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Row Crop,29381
+1631,7975,86,19,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1631,7976,338,75,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1631,7977,356,79,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1631,7978,5,1,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Eastern Cool Temperate Wheat,1903
+1631,9055,3,1,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Boreal-Laurentian Bog,2471
+1631,9056,51,11,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1631,9057,1,0,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1631,9089,4,1,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1631,9112,5974,1329,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1631,9117,28,6,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Floodplain Forest,16724
+1631,9118,2,0,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1631,9120,26,6,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Laurentian-Acadian Wet Meadow,7301
+1631,9312,5857,1303,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Northeastern North American Temperate Forest Plantation,198063
+1631,9315,213,47,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Northern & Central Native Ruderal Forest,15468
+1631,9317,59,13,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Northern & Central Ruderal Shrubland,3873
+1631,9817,1513,336,BPS  North-Central Interior Sand and Gravel Tallgrass Prairie,5453,EVT  Northern & Central Ruderal Meadow,30745
+1633,7238,78,17,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1633,7239,84,19,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1633,7240,10,2,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Hardwood Forest,10068
+1633,7241,24,5,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1633,7242,2,0,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian Oak Barrens,6303
+1633,7243,1,0,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian Pine-Oak Barrens,1796
+1633,7295,1,0,BPS  Eastern Boreal Floodplain,8102,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1633,7296,24,5,BPS  Eastern Boreal Floodplain,8102,EVT  Developed-Low Intensity,10451
+1633,7297,2,0,BPS  Eastern Boreal Floodplain,8102,EVT  Developed-Medium Intensity,2575
+1633,7299,115,26,BPS  Eastern Boreal Floodplain,8102,EVT  Developed-Roads,70702
+1633,7301,565,126,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1633,7302,343,76,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1633,7310,3,1,BPS  Eastern Boreal Floodplain,8102,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1633,7362,1785,397,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1633,7366,1205,268,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1633,7407,34,8,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian Pine Barrens,22396
+1633,7412,5,1,BPS  Eastern Boreal Floodplain,8102,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1633,7481,23156,5150,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1633,7905,32,7,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1633,7906,59,13,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1633,7907,30,7,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1633,7908,17,4,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1633,7909,4,1,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1633,7925,5,1,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1633,7926,33,7,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1633,7927,13,3,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1633,7929,4,1,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1633,7970,2,0,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Orchard,7450
+1633,7973,3,1,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1633,7974,19,4,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Row Crop,29381
+1633,7975,10,2,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1633,7976,73,16,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1633,7977,5,1,BPS  Eastern Boreal Floodplain,8102,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1633,9055,60,13,BPS  Eastern Boreal Floodplain,8102,EVT  Boreal-Laurentian Bog,2471
+1633,9056,3117,693,BPS  Eastern Boreal Floodplain,8102,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1633,9057,2,0,BPS  Eastern Boreal Floodplain,8102,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1633,9088,1,0,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1633,9089,631,140,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1633,9112,1472,327,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1633,9114,8,2,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Alkaline Fen,277
+1633,9117,1449,322,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Floodplain Forest,16724
+1633,9118,806,179,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1633,9120,474,105,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Wet Meadow,7301
+1633,9312,180,40,BPS  Eastern Boreal Floodplain,8102,EVT  Northeastern North American Temperate Forest Plantation,198063
+1633,9314,1,0,BPS  Eastern Boreal Floodplain,8102,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1633,9315,2,0,BPS  Eastern Boreal Floodplain,8102,EVT  Northern & Central Native Ruderal Forest,15468
+1633,9317,14,3,BPS  Eastern Boreal Floodplain,8102,EVT  Northern & Central Ruderal Shrubland,3873
+1633,9617,48,11,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1633,9620,231,51,BPS  Eastern Boreal Floodplain,8102,EVT  Laurentian-Acadian Shrub Swamp,4200
+1633,9817,187,42,BPS  Eastern Boreal Floodplain,8102,EVT  Northern & Central Ruderal Meadow,30745
+1634,7238,188,42,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1634,7239,211,47,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1634,7240,10,2,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Hardwood Forest,10068
+1634,7241,57,13,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1634,7242,4,1,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian Oak Barrens,6303
+1634,7243,5,1,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian Pine-Oak Barrens,1796
+1634,7296,49,11,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Developed-Low Intensity,10451
+1634,7297,12,3,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Developed-Medium Intensity,2575
+1634,7298,2,0,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Developed-High Intensity,771
+1634,7299,162,36,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Developed-Roads,70702
+1634,7301,630,140,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1634,7302,406,90,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1634,7310,56,12,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1634,7311,126,28,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1634,7313,52,12,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Interior Beech-Maple Forest,4280
+1634,7362,2158,480,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1634,7366,1330,296,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1634,7395,8,2,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Oak Barrens Woodland,2181
+1634,7407,78,17,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian Pine Barrens,22396
+1634,7412,3,1,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1634,7466,483,107,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Great Lakes Wooded Dune and Swale,1348
+1634,7481,9791,2177,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1634,7905,64,14,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1634,7906,104,23,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1634,7907,35,8,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1634,7908,27,6,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1634,7909,5,1,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1634,7925,10,2,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1634,7926,26,6,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1634,7927,14,3,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1634,7928,1,0,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Developed Shrubland,62
+1634,7929,14,3,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1634,7970,1,0,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Orchard,7450
+1634,7973,4,1,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1634,7974,12,3,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Row Crop,29381
+1634,7976,23,5,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1634,7977,1,0,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1634,9055,51,11,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Boreal-Laurentian Bog,2471
+1634,9056,1719,382,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1634,9057,7,2,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1634,9088,2,0,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1634,9089,540,120,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1634,9112,2765,615,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1634,9114,31,7,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Alkaline Fen,277
+1634,9117,697,155,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Floodplain Forest,16724
+1634,9118,136,30,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1634,9120,608,135,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Wet Meadow,7301
+1634,9177,5,1,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1634,9178,44,10,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1634,9192,8,2,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern Atlantic Coastal Plain Pond,722
+1634,9202,80,18,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern Great Lakes Coastal Marsh,406
+1634,9203,12,3,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern Great Lakes Interdunal Wetland,83
+1634,9312,490,109,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northeastern North American Temperate Forest Plantation,198063
+1634,9314,2,0,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1634,9315,13,3,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern & Central Native Ruderal Forest,15468
+1634,9317,20,4,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern & Central Ruderal Shrubland,3873
+1634,9617,54,12,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1634,9620,116,26,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Laurentian-Acadian Shrub Swamp,4200
+1634,9817,139,31,BPS  Great Lakes Wooded Dune and Swale,5271,EVT  Northern & Central Ruderal Meadow,30745
+1635,7238,456,101,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1635,7239,181,40,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1635,7240,220,49,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Hardwood Forest,10068
+1635,7241,91,20,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1635,7242,9,2,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian Oak Barrens,6303
+1635,7243,3,1,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian Pine-Oak Barrens,1796
+1635,7296,131,29,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Developed-Low Intensity,10451
+1635,7297,34,8,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Developed-Medium Intensity,2575
+1635,7298,1,0,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Developed-High Intensity,771
+1635,7299,204,45,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Developed-Roads,70702
+1635,7301,378,84,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1635,7302,1860,414,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1635,7310,366,81,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1635,7311,1868,415,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1635,7313,247,55,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Beech-Maple Forest,4280
+1635,7362,1442,321,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1635,7366,794,177,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1635,7395,96,21,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Oak Barrens Woodland,2181
+1635,7407,41,9,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian Pine Barrens,22396
+1635,7412,140,31,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1635,7466,1,0,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Great Lakes Wooded Dune and Swale,1348
+1635,7481,9475,2107,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1635,7518,4,1,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Wet Flatwoods,30
+1635,7905,110,24,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1635,7906,83,18,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1635,7907,89,20,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1635,7908,29,6,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1635,7909,8,2,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1635,7925,43,10,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1635,7926,82,18,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1635,7927,48,11,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1635,7928,9,2,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Developed Shrubland,62
+1635,7929,21,5,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1635,7970,16,4,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Orchard,7450
+1635,7972,2,0,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1635,7973,29,6,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1635,7974,165,37,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Row Crop,29381
+1635,7975,27,6,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1635,7976,268,60,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1635,7977,17,4,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1635,7978,5,1,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Eastern Cool Temperate Wheat,1903
+1635,9055,22,5,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Boreal-Laurentian Bog,2471
+1635,9056,718,160,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1635,9057,13,3,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1635,9089,14,3,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1635,9102,9,2,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Great Lakes Freshwater Estuary and Delta,2
+1635,9112,338,75,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1635,9114,12,3,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Alkaline Fen,277
+1635,9117,10258,2281,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Floodplain Forest,16724
+1635,9118,149,33,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1635,9120,763,170,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Wet Meadow,7301
+1635,9177,510,113,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1635,9178,4600,1023,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1635,9179,10076,2241,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Floodplain Forest,2750
+1635,9180,352,78,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Freshwater Marsh,253
+1635,9183,287,64,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Shrub Swamp,374
+1635,9192,262,58,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern Atlantic Coastal Plain Pond,722
+1635,9202,293,65,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern Great Lakes Coastal Marsh,406
+1635,9203,16,4,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern Great Lakes Interdunal Wetland,83
+1635,9312,1724,383,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northeastern North American Temperate Forest Plantation,198063
+1635,9315,30,7,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern & Central Native Ruderal Forest,15468
+1635,9317,33,7,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern & Central Ruderal Shrubland,3873
+1635,9318,17,4,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1635,9601,2,0,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Great Lakes Dune Grassland,39
+1635,9617,525,117,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1635,9620,116,26,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Laurentian-Acadian Shrub Swamp,4200
+1635,9679,8,2,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Floodplain Shrubland,2
+1635,9683,564,125,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  North-Central Interior Wet Meadow,401
+1635,9817,148,33,BPS  Central Interior and Appalachian Floodplain Systems,11331,EVT  Northern & Central Ruderal Meadow,30745
+1636,7238,1588,353,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1636,7239,731,163,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1636,7240,305,68,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Hardwood Forest,10068
+1636,7241,259,58,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1636,7242,57,13,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian Oak Barrens,6303
+1636,7243,11,2,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian Pine-Oak Barrens,1796
+1636,7295,2,0,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1636,7296,287,64,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Developed-Low Intensity,10451
+1636,7297,54,12,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Developed-Medium Intensity,2575
+1636,7298,3,1,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Developed-High Intensity,771
+1636,7299,948,211,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Developed-Roads,70702
+1636,7301,3279,729,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1636,7302,14647,3257,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1636,7310,841,187,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1636,7311,1304,290,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1636,7313,284,63,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Beech-Maple Forest,4280
+1636,7362,10086,2243,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1636,7366,3350,745,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1636,7395,158,35,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Oak Barrens Woodland,2181
+1636,7407,912,203,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian Pine Barrens,22396
+1636,7412,115,26,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1636,7466,3,1,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Great Lakes Wooded Dune and Swale,1348
+1636,7481,145106,32271,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1636,7518,22,5,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Wet Flatwoods,30
+1636,7905,498,111,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1636,7906,294,65,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1636,7907,487,108,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1636,7908,101,22,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1636,7909,48,11,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1636,7925,95,21,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1636,7926,207,46,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1636,7927,145,32,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1636,7928,1,0,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Developed Shrubland,62
+1636,7929,36,8,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1636,7970,351,78,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Orchard,7450
+1636,7972,5,1,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1636,7973,225,50,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1636,7974,447,99,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Row Crop,29381
+1636,7975,427,95,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1636,7976,2324,517,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1636,7977,114,25,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1636,7978,43,10,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Eastern Cool Temperate Wheat,1903
+1636,9055,1794,399,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Boreal-Laurentian Bog,2471
+1636,9056,7864,1749,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1636,9057,156,35,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1636,9088,3,1,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1636,9089,404,90,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1636,9112,2404,535,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1636,9114,60,13,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Alkaline Fen,277
+1636,9117,33050,7350,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Floodplain Forest,16724
+1636,9118,1555,346,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1636,9120,9268,2061,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Wet Meadow,7301
+1636,9177,440,98,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1636,9178,3939,876,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1636,9179,855,190,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Floodplain Forest,2750
+1636,9180,280,62,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Freshwater Marsh,253
+1636,9182,4,1,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Shrub Alkaline Fen,1
+1636,9183,924,205,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Shrub Swamp,374
+1636,9192,55,12,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern Atlantic Coastal Plain Pond,722
+1636,9202,383,85,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern Great Lakes Coastal Marsh,406
+1636,9203,23,5,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern Great Lakes Interdunal Wetland,83
+1636,9312,3187,709,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northeastern North American Temperate Forest Plantation,198063
+1636,9314,18,4,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1636,9315,88,20,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern & Central Native Ruderal Forest,15468
+1636,9317,234,52,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern & Central Ruderal Shrubland,3873
+1636,9318,11,2,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1636,9617,2902,645,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1636,9620,4338,965,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Laurentian-Acadian Shrub Swamp,4200
+1636,9682,10,2,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Graminoid Alkaline Fen,4
+1636,9683,461,103,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  North-Central Interior Wet Meadow,401
+1636,9817,704,157,BPS  Laurentian-Acadian Floodplain Systems,59071,EVT  Northern & Central Ruderal Meadow,30745
+1637,7238,837,186,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1637,7239,480,107,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1637,7240,89,20,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Hardwood Forest,10068
+1637,7241,151,34,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1637,7242,47,10,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian Oak Barrens,6303
+1637,7243,29,6,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian Pine-Oak Barrens,1796
+1637,7295,2,0,BPS  Boreal Acidic Peatland Systems,19902,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1637,7296,114,25,BPS  Boreal Acidic Peatland Systems,19902,EVT  Developed-Low Intensity,10451
+1637,7297,25,6,BPS  Boreal Acidic Peatland Systems,19902,EVT  Developed-Medium Intensity,2575
+1637,7298,3,1,BPS  Boreal Acidic Peatland Systems,19902,EVT  Developed-High Intensity,771
+1637,7299,880,196,BPS  Boreal Acidic Peatland Systems,19902,EVT  Developed-Roads,70702
+1637,7301,1328,295,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1637,7302,1840,409,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1637,7310,77,17,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1637,7311,31,7,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1637,7313,5,1,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Beech-Maple Forest,4280
+1637,7362,3712,826,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1637,7366,1620,360,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1637,7407,729,162,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian Pine Barrens,22396
+1637,7412,87,19,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1637,7466,808,180,BPS  Boreal Acidic Peatland Systems,19902,EVT  Great Lakes Wooded Dune and Swale,1348
+1637,7481,44530,9903,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1637,7518,1,0,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Wet Flatwoods,30
+1637,7905,150,33,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1637,7906,468,104,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1637,7907,180,40,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1637,7908,61,14,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1637,7909,18,4,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1637,7925,20,4,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1637,7926,139,31,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1637,7927,69,15,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1637,7928,4,1,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Developed Shrubland,62
+1637,7929,31,7,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1637,7970,12,3,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Orchard,7450
+1637,7973,18,4,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1637,7974,63,14,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Row Crop,29381
+1637,7975,19,4,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1637,7976,336,75,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1637,7977,25,6,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1637,7978,3,1,BPS  Boreal Acidic Peatland Systems,19902,EVT  Eastern Cool Temperate Wheat,1903
+1637,9055,990,220,BPS  Boreal Acidic Peatland Systems,19902,EVT  Boreal-Laurentian Bog,2471
+1637,9056,10764,2394,BPS  Boreal Acidic Peatland Systems,19902,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1637,9057,93,21,BPS  Boreal Acidic Peatland Systems,19902,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1637,9088,1,0,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1637,9089,502,112,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1637,9112,4365,971,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1637,9114,331,74,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Alkaline Fen,277
+1637,9117,2271,505,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Floodplain Forest,16724
+1637,9118,2218,493,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1637,9120,3391,754,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Wet Meadow,7301
+1637,9177,49,11,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1637,9178,71,16,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1637,9179,2,0,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Floodplain Forest,2750
+1637,9180,36,8,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Freshwater Marsh,253
+1637,9183,5,1,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Shrub Swamp,374
+1637,9192,320,71,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern Atlantic Coastal Plain Pond,722
+1637,9202,223,50,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern Great Lakes Coastal Marsh,406
+1637,9203,146,32,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern Great Lakes Interdunal Wetland,83
+1637,9312,1827,406,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northeastern North American Temperate Forest Plantation,198063
+1637,9315,7,2,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern & Central Native Ruderal Forest,15468
+1637,9317,112,25,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern & Central Ruderal Shrubland,3873
+1637,9318,1,0,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1637,9617,232,52,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1637,9620,1682,374,BPS  Boreal Acidic Peatland Systems,19902,EVT  Laurentian-Acadian Shrub Swamp,4200
+1637,9683,30,7,BPS  Boreal Acidic Peatland Systems,19902,EVT  North-Central Interior Wet Meadow,401
+1637,9817,778,173,BPS  Boreal Acidic Peatland Systems,19902,EVT  Northern & Central Ruderal Meadow,30745
+1638,7238,145,32,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1638,7239,68,15,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1638,7240,57,13,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Hardwood Forest,10068
+1638,7241,31,7,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1638,7242,2,0,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian Oak Barrens,6303
+1638,7295,1,0,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1638,7296,69,15,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Developed-Low Intensity,10451
+1638,7297,15,3,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Developed-Medium Intensity,2575
+1638,7299,87,19,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Developed-Roads,70702
+1638,7301,249,55,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1638,7302,1093,243,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1638,7310,449,100,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1638,7311,1106,246,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1638,7313,140,31,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Beech-Maple Forest,4280
+1638,7362,713,159,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1638,7366,381,85,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1638,7395,43,10,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Oak Barrens Woodland,2181
+1638,7407,35,8,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian Pine Barrens,22396
+1638,7412,20,4,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1638,7481,7619,1694,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1638,7518,3,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Wet Flatwoods,30
+1638,7905,53,12,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1638,7906,36,8,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1638,7907,88,20,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1638,7908,16,4,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1638,7909,3,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1638,7925,26,6,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1638,7926,51,11,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1638,7927,22,5,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1638,7929,3,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1638,7970,26,6,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Orchard,7450
+1638,7973,20,4,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1638,7974,43,10,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Row Crop,29381
+1638,7975,20,4,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1638,7976,77,17,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1638,7977,6,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1638,7978,2,0,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Eastern Cool Temperate Wheat,1903
+1638,9055,162,36,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Boreal-Laurentian Bog,2471
+1638,9056,1325,295,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1638,9057,3,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1638,9089,3,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1638,9112,156,35,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1638,9117,453,101,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Floodplain Forest,16724
+1638,9118,14,3,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1638,9120,124,28,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Wet Meadow,7301
+1638,9177,212,47,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1638,9178,1553,345,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1638,9179,412,92,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Floodplain Forest,2750
+1638,9180,56,12,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Freshwater Marsh,253
+1638,9182,1,0,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Shrub Alkaline Fen,1
+1638,9183,57,13,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Shrub Swamp,374
+1638,9192,2,0,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northern Atlantic Coastal Plain Pond,722
+1638,9312,745,166,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northeastern North American Temperate Forest Plantation,198063
+1638,9314,11,2,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1638,9315,61,14,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northern & Central Native Ruderal Forest,15468
+1638,9317,22,5,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northern & Central Ruderal Shrubland,3873
+1638,9318,3,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1638,9617,6,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1638,9620,4,1,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Laurentian-Acadian Shrub Swamp,4200
+1638,9682,2,0,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Graminoid Alkaline Fen,4
+1638,9683,38,8,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  North-Central Interior Wet Meadow,401
+1638,9817,51,11,BPS  Central Interior and Appalachian Swamp Systems,4068,EVT  Northern & Central Ruderal Meadow,30745
+1639,7238,7908,1759,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1639,7239,5397,1200,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1639,7240,1104,246,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Hardwood Forest,10068
+1639,7241,1587,353,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Pine-Hemlock-Hardwood Forest,13639
+1639,7242,195,43,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian Oak Barrens,6303
+1639,7243,55,12,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian Pine-Oak Barrens,1796
+1639,7290,3,1,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Oak Barrens Herbaceous,4
+1639,7295,27,6,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1639,7296,938,209,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Developed-Low Intensity,10451
+1639,7297,156,35,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Developed-Medium Intensity,2575
+1639,7298,16,4,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Developed-High Intensity,771
+1639,7299,3935,875,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Developed-Roads,70702
+1639,7301,21370,4753,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1639,7302,38190,8493,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1639,7310,1939,431,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1639,7311,2857,635,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1639,7313,424,94,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Beech-Maple Forest,4280
+1639,7362,42562,9466,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1639,7366,18978,4221,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1639,7395,202,45,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Oak Barrens Woodland,2181
+1639,7407,2097,466,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian Pine Barrens,22396
+1639,7412,597,133,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1639,7466,4264,948,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Great Lakes Wooded Dune and Swale,1348
+1639,7481,448357,99712,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1639,7518,53,12,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Wet Flatwoods,30
+1639,7905,1747,389,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1639,7906,1784,397,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Urban Evergreen Forest,13614
+1639,7907,1595,355,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Urban Mixed Forest,7114
+1639,7908,475,106,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1639,7909,170,38,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Urban Shrubland,2473
+1639,7925,241,54,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Developed Deciduous Forest,2445
+1639,7926,712,158,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1639,7927,467,104,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Developed Mixed Forest,950
+1639,7928,27,6,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Developed Shrubland,62
+1639,7929,222,49,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1639,7970,328,73,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Orchard,7450
+1639,7971,1,0,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Vineyard,63
+1639,7972,6,1,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Bush fruit and berries,121
+1639,7973,360,80,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1639,7974,1111,247,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Row Crop,29381
+1639,7975,728,162,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1639,7976,3312,737,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1639,7977,479,107,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Pasture and Hayland,15155
+1639,7978,70,16,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Eastern Cool Temperate Wheat,1903
+1639,9055,6853,1524,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Boreal-Laurentian Bog,2471
+1639,9056,36819,8188,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1639,9057,736,164,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Boreal-Laurentian-Acadian Acidic Basin Fen,250
+1639,9088,7,2,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce Forest,29
+1639,9089,5646,1256,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Sub-boreal Mesic Balsam Fir-Spruce Forest,6721
+1639,9112,20486,4556,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1639,9114,751,167,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Alkaline Fen,277
+1639,9117,20311,4517,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Floodplain Forest,16724
+1639,9118,8962,1993,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1639,9120,15546,3457,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Wet Meadow,7301
+1639,9177,1050,234,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1639,9178,3316,737,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1639,9179,313,70,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Floodplain Forest,2750
+1639,9180,312,69,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Freshwater Marsh,253
+1639,9183,276,61,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Shrub Swamp,374
+1639,9192,2064,459,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern Atlantic Coastal Plain Pond,722
+1639,9202,780,173,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern Great Lakes Coastal Marsh,406
+1639,9203,134,30,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern Great Lakes Interdunal Wetland,83
+1639,9295,2,0,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Sub-boreal Dry-Mesic Pine-Black Spruce-Hardwood Forest,10
+1639,9312,15735,3499,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northeastern North American Temperate Forest Plantation,198063
+1639,9314,71,16,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern & Central Native Ruderal Flooded & Swamp Forest,427
+1639,9315,375,83,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern & Central Native Ruderal Forest,15468
+1639,9317,761,169,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern & Central Ruderal Shrubland,3873
+1639,9318,22,5,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1639,9601,1,0,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Great Lakes Dune Grassland,39
+1639,9617,1040,231,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1639,9620,11329,2520,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Laurentian-Acadian Shrub Swamp,4200
+1639,9682,2,0,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Graminoid Alkaline Fen,4
+1639,9683,514,114,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  North-Central Interior Wet Meadow,401
+1639,9817,3684,819,BPS  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,172343,EVT  Northern & Central Ruderal Meadow,30745
+1640,7295,58,13,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,196
+1640,7302,2,0,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1640,7362,5,1,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1640,7407,5,1,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian Pine Barrens,22396
+1640,7466,6,1,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Great Lakes Wooded Dune and Swale,1348
+1640,7481,18,4,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1640,7970,10,2,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Eastern Cool Temperate Orchard,7450
+1640,7973,30,7,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Eastern Cool Temperate Row Crop - Close Grown Crop,11339
+1640,7974,12,3,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Eastern Cool Temperate Row Crop,29381
+1640,7975,1,0,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1640,7976,52,12,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1640,7978,2,0,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Eastern Cool Temperate Wheat,1903
+1640,9056,1,0,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1640,9112,6,1,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1640,9117,2,0,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian-Acadian Floodplain Forest,16724
+1640,9312,4,1,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Northeastern North American Temperate Forest Plantation,198063
+1640,9617,2,0,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Laurentian-Acadian Floodplain Shrubland,1092
+1640,9817,122,27,BPS  Great Lakes Coastal Marsh Systems,75,EVT  Northern & Central Ruderal Meadow,30745
+1641,7238,5,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Northern Oak Forest,244233
+1641,7239,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Northern Pine-(Oak) Forest,92020
+1641,7240,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Hardwood Forest,10068
+1641,7296,2,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Developed-Low Intensity,10451
+1641,7299,6,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Developed-Roads,70702
+1641,7301,12,3,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Sub-boreal Aspen-Birch Forest,123860
+1641,7302,20,4,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Northern Hardwoods Forest,352626
+1641,7310,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  North-Central Interior Dry-Mesic Oak Forest and Woodland,32008
+1641,7311,6,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  North-Central Interior Dry Oak Forest and Woodland,37600
+1641,7362,14,3,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Northern Pine Forest,99384
+1641,7366,2,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Pine-Hemlock Forest,28846
+1641,7395,3,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  North-Central Oak Barrens Woodland,2181
+1641,7407,3,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian Pine Barrens,22396
+1641,7412,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  North-Central Interior Sand and Gravel Tallgrass Prairie,1279
+1641,7481,93,21,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,167621
+1641,7905,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Urban Deciduous Forest,23661
+1641,7908,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Urban Herbaceous,9107
+1641,7926,7,2,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Developed Evergreen Forest,2432
+1641,7929,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Developed Herbaceous,731
+1641,7970,2,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Orchard,7450
+1641,7974,4,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Row Crop,29381
+1641,7975,2,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Close Grown Crop,28166
+1641,7976,7,2,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Eastern Cool Temperate Fallow/Idle Cropland,24304
+1641,9055,3,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Boreal-Laurentian Bog,2471
+1641,9056,9,2,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Boreal-Laurentian Conifer Acidic Swamp and Treed Poor Fen,18184
+1641,9112,11,2,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian Jack Pine-Red Pine Forest,172450
+1641,9117,3,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Floodplain Forest,16724
+1641,9118,3,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Freshwater Marsh,3530
+1641,9120,7,2,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Wet Meadow,7301
+1641,9177,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  North-Central Interior and Appalachian Acidic Peatland Woodland,630
+1641,9178,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  North-Central Interior and Appalachian Rich Swamp,3432
+1641,9312,5,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Northeastern North American Temperate Forest Plantation,198063
+1641,9315,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Northern & Central Native Ruderal Forest,15468
+1641,9317,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Northern & Central Ruderal Shrubland,3873
+1641,9318,1,0,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Northern & Central Ruderal Wet Meadow & Marsh,128
+1641,9620,6,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Laurentian-Acadian Shrub Swamp,4200
+1641,9817,6,1,BPS  Laurentian-Acadian Shrub-Herbaceous Wetland Systems,56,EVT  Northern & Central Ruderal Meadow,30745

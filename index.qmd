@@ -1,6 +1,6 @@
 ---
-title: "Ottawa National Forest LANDFIRE Demo, 2023"
-author: "Randy Swaty with substantial code contributions from Myles Walimaa"
+title: "Huron-Manistee National Forests LANDFIRE Demo, 2023"
+author: "Claire Burtrum with substantial code contributions from Myles Walimaa"
 ---
 
 ## Goals of this quick demonstration
@@ -44,25 +44,25 @@ library(raster)
 
 ```{r read shapefile, message=FALSE, warning=FALSE, include=FALSE}
 #  read shape
-shp <- st_read("data/") %>% 
+shp <- st_read("data/huron_manistee.shp") %>% 
   st_transform(crs = 5070) %>%
   st_union() %>%
   st_sf()
 ```
 
-```{r locator map, message=FALSE, warning=FALSE, echo=FALSE}
-library(tmap)
+<!-- {r locator map, message=FALSE, warning=FALSE, echo=FALSE} -->
+<!-- library(tmap) -->
 
-# toggle tmap mode to interactive viewing
-tmap_mode("view")
+<!-- # toggle tmap mode to interactive viewing -->
+<!-- tmap_mode("view") -->
 
-# create a quick interactive map
-quickmap <- qtm(shp, borders = "darkgreen",  check.and.fix = TRUE)
+<!-- # create a quick interactive map -->
+<!-- quickmap <- qtm(shp, borders = "darkgreen",  check.and.fix = TRUE) -->
 
-quickmap
+<!-- quickmap -->
 
 
 
-```
+
 
 

@@ -1,0 +1,183 @@
+TransitionGroupID,Model_Code,annual_probability,BpS_Name,VALUE,ACRES,REL_PERCENT,annual_dist_acres
+All Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1614,329316,16.2,160.047576
+All Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1615,54577,2.7,26.524422
+All Fire,13100_51,0.1077534,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,79.6297626
+All Fire,13110_51,0.11053,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,420.12453
+All Fire,13130_47_50_51,0.0022416,North-Central Interior Beech-Maple Forest,1619,1705,0.1,3.821928
+All Fire,13441_51,0.1932342,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,1620,80188,3.9,15495.06403
+All Fire,13442_51,0.0091302,Boreal Jack Pine-Black Spruce Forest - Spruce-Fir,1621,788,0,7.1945976
+All Fire,13620_51_63_64_65_66,0.0205164,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,16249.00932
+All Fire,13651_51,0.0039598,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,50.0003946
+All Fire,13652_51,0.0018992,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,31.982528
+All Fire,13660_51_63_64_65_66,0.0064298,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,132.3510032
+All Fire,14071_41_50_51,0.227989,Laurentian Pine-Oak Barrens,1628,351016,17.3,80027.78682
+All Fire,14072_41_50_51,0.118221,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,5659.948596
+All Fire,14120_39_40_41_42_43_50_51,0.2928476,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,1596.897963
+All Fire,14440_41_50_51,0.0049654,Eastern Boreal Floodplain,1633,8102,0.4,40.2296708
+All Fire,14660_50_51,0.0021454,Great Lakes Wooded Dune and Swale,1634,5271,0.3,11.3084034
+All Fire,14710_51_62,0.01687,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,191.15397
+All Fire,14750_41_50_51_63_64_65_66,0.0170888,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,1009.452505
+All Fire,14770_40_41_50_51,0.0096418,Boreal Acidic Peatland Systems,1637,19902,1,191.8911036
+All Fire,14790_41_42_47_48_50_51_53,0.0009708,Central Interior and Appalachian Swamp Systems,1638,4068,0.2,3.9492144
+All Fire,14810_41_50_51_63,0.000999,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1639,172343,8.5,172.170657
+All Fire,14940_41_50_51,0.0564512,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,3.1612672
+All Transitions,13022_41_50_51,0.0017866,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1614,329316,16.2,588.3559656
+All Transitions,13022_41_50_51,0.0017866,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1615,54577,2.7,97.5072682
+All Transitions,13100_51,0.1164306,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,86.0422134
+All Transitions,13110_51,0.1215258,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,461.9195658
+All Transitions,13130_47_50_51,0.1424086,North-Central Interior Beech-Maple Forest,1619,1705,0.1,242.806663
+All Transitions,13441_51,0.1932342,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,1620,80188,3.9,15495.06403
+All Transitions,13442_51,0.009817,Boreal Jack Pine-Black Spruce Forest - Spruce-Fir,1621,788,0,7.735796
+All Transitions,13620_51_63_64_65_66,0.0272662,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,21594.85767
+All Transitions,13651_51,0.0836148,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,1055.80408
+All Transitions,13652_51,0.0173768,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,292.625312
+All Transitions,13660_51_63_64_65_66,0.007392,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,152.156928
+All Transitions,14071_41_50_51,0.228269,Laurentian Pine-Oak Barrens,1628,351016,17.3,80126.0713
+All Transitions,14072_41_50_51,0.1202254,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,5755.91125
+All Transitions,14120_39_40_41_42_43_50_51,0.3074404,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,1676.472501
+All Transitions,14440_41_50_51,0.1281268,Eastern Boreal Floodplain,1633,8102,0.4,1038.083334
+All Transitions,14660_50_51,0.0077348,Great Lakes Wooded Dune and Swale,1634,5271,0.3,40.7701308
+All Transitions,14710_51_62,0.2292252,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,2597.350741
+All Transitions,14750_41_50_51_63_64_65_66,0.2307958,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,13633.3387
+All Transitions,14770_40_41_50_51,0.0232502,Boreal Acidic Peatland Systems,1637,19902,1,462.7254804
+All Transitions,14790_41_42_47_48_50_51_53,0.0091134,Central Interior and Appalachian Swamp Systems,1638,4068,0.2,37.0733112
+All Transitions,14810_41_50_51_63,0.0051708,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1639,172343,8.5,891.1511844
+All Transitions,14920_41_50_51_52_63,0.022358,Great Lakes Coastal Marsh Systems,1640,75,0,1.67685
+All Transitions,14940_41_50_51,0.39658,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,22.20848
+Alternative Succession,13022_41_50_51,0.000384,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1614,329316,16.2,126.457344
+Alternative Succession,13022_41_50_51,0.000384,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1615,54577,2.7,20.957568
+Alternative Succession,13100_51,0.0041266,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,3.0495574
+Alternative Succession,13110_51,0.0037196,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,14.1381996
+Alternative Succession,13620_51_63_64_65_66,0.0008822,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,698.7032822
+Alternative Succession,13651_51,0.0022104,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,27.9107208
+Alternative Succession,13652_51,0.0013544,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,22.808096
+Alternative Succession,14071_41_50_51,0.00028,Laurentian Pine-Oak Barrens,1628,351016,17.3,98.28448
+Alternative Succession,14120_39_40_41_42_43_50_51,0.008124,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,44.300172
+Alternative Succession,14940_41_50_51,0.012298,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,0.688688
+Competition or Maintenance,13620_51_63_64_65_66,0.0025008,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,1980.636101
+Insect or Disease,13651_51,0.011187,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,141.258249
+Insect or Disease,13652_51,0.0132968,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,223.918112
+Insect or Disease,14072_41_50_51,0.0010162,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,48.6515912
+Insect or Disease,14770_40_41_50_51,0.0016394,Boreal Acidic Peatland Systems,1637,19902,1,32.6273388
+Mixed Fire,13100_51,0.0062232,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,4.5989448
+Mixed Fire,13110_51,0.0089836,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,34.1466636
+Mixed Fire,13441_51,0.0158722,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,1620,80188,3.9,1272.759974
+Mixed Fire,13620_51_63_64_65_66,0.0022214,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,1759.351021
+Mixed Fire,13651_51,0.0019318,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,24.3928386
+Mixed Fire,13652_51,0.00079,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,13.3036
+Mixed Fire,13660_51_63_64_65_66,0.0009764,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,20.0982176
+Mixed Fire,14071_41_50_51,0.0133642,Laurentian Pine-Oak Barrens,1628,351016,17.3,4691.048027
+Mixed Fire,14072_41_50_51,0.0216634,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,1037.156938
+Mixed Fire,14440_41_50_51,0.00173,Eastern Boreal Floodplain,1633,8102,0.4,14.01646
+Mixed Fire,14660_50_51,0.001884,Great Lakes Wooded Dune and Swale,1634,5271,0.3,9.930564
+Mixed Fire,14710_51_62,0.0023212,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,26.3015172
+Mixed Fire,14750_41_50_51_63_64_65_66,0.00232,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,137.04472
+Native Grazing,13100_51,0.0036416,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,2.6911424
+Native Grazing,13110_51,0.0061832,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,23.5023432
+Non Fire Disturbances,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1614,329316,16.2,301.8510456
+Non Fire Disturbances,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1615,54577,2.7,50.0252782
+Non Fire Disturbances,13100_51,0.0045506,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,3.3628934
+Non Fire Disturbances,13110_51,0.0072762,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,27.6568362
+Non Fire Disturbances,13130_47_50_51,0.140167,North-Central Interior Beech-Maple Forest,1619,1705,0.1,238.984735
+Non Fire Disturbances,13442_51,0.0006868,Boreal Jack Pine-Black Spruce Forest - Spruce-Fir,1621,788,0,0.5411984
+Non Fire Disturbances,13620_51_63_64_65_66,0.0058676,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,4647.145068
+Non Fire Disturbances,13651_51,0.0774446,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,977.8929642
+Non Fire Disturbances,13652_51,0.0141232,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,237.834688
+Non Fire Disturbances,13660_51_63_64_65_66,0.0009622,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,19.8059248
+Non Fire Disturbances,14072_41_50_51,0.0020044,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,95.9626544
+Non Fire Disturbances,14120_39_40_41_42_43_50_51,0.0064688,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,35.2743664
+Non Fire Disturbances,14440_41_50_51,0.1231614,Eastern Boreal Floodplain,1633,8102,0.4,997.8536628
+Non Fire Disturbances,14660_50_51,0.0055894,Great Lakes Wooded Dune and Swale,1634,5271,0.3,29.4617274
+Non Fire Disturbances,14710_51_62,0.2123552,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,2406.196771
+Non Fire Disturbances,14750_41_50_51_63_64_65_66,0.213707,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,12623.8862
+Non Fire Disturbances,14770_40_41_50_51,0.0136084,Boreal Acidic Peatland Systems,1637,19902,1,270.8343768
+Non Fire Disturbances,14790_41_42_47_48_50_51_53,0.0081426,Central Interior and Appalachian Swamp Systems,1638,4068,0.2,33.1240968
+Non Fire Disturbances,14810_41_50_51_63,0.0041718,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1639,172343,8.5,718.9805274
+Non Fire Disturbances,14920_41_50_51_52_63,0.022358,Great Lakes Coastal Marsh Systems,1640,75,0,1.67685
+Non Fire Disturbances,14940_41_50_51,0.3278308,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,18.3585248
+Non Replacement Fire,13100_51,0.101509,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,75.015151
+Non Replacement Fire,13110_51,0.1031328,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,392.0077728
+Non Replacement Fire,13130_47_50_51,0.0012282,North-Central Interior Beech-Maple Forest,1619,1705,0.1,2.094081
+Non Replacement Fire,13441_51,0.1635562,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,1620,80188,3.9,13115.24457
+Non Replacement Fire,13620_51_63_64_65_66,0.0172968,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,13699.0829
+Non Replacement Fire,13651_51,0.0019318,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,24.3928386
+Non Replacement Fire,13652_51,0.00079,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,13.3036
+Non Replacement Fire,13660_51_63_64_65_66,0.0043526,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,89.5939184
+Non Replacement Fire,14071_41_50_51,0.2188268,Laurentian Pine-Oak Barrens,1628,351016,17.3,76811.70803
+Non Replacement Fire,14072_41_50_51,0.078392,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,3753.095392
+Non Replacement Fire,14120_39_40_41_42_43_50_51,0.011561,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,63.042133
+Non Replacement Fire,14440_41_50_51,0.0049654,Eastern Boreal Floodplain,1633,8102,0.4,40.2296708
+Non Replacement Fire,14660_50_51,0.001884,Great Lakes Wooded Dune and Swale,1634,5271,0.3,9.930564
+Non Replacement Fire,14710_51_62,0.01687,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,191.15397
+Non Replacement Fire,14750_41_50_51_63_64_65_66,0.0170888,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,1009.452505
+Non Replacement Fire,14770_40_41_50_51,0.0082316,Boreal Acidic Peatland Systems,1637,19902,1,163.8253032
+Optional 1,14072_41_50_51,0.0009882,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,47.3110632
+Optional 1,14440_41_50_51,0.1045578,Eastern Boreal Floodplain,1633,8102,0.4,847.1272956
+Optional 1,14660_50_51,0.0004612,Great Lakes Wooded Dune and Swale,1634,5271,0.3,2.4309852
+Optional 1,14710_51_62,0.1979968,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,2243.501741
+Optional 1,14750_41_50_51_63_64_65_66,0.1992052,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,11767.25037
+Optional 1,14770_40_41_50_51,0.009123,Boreal Acidic Peatland Systems,1637,19902,1,181.565946
+Optional 1,14920_41_50_51_52_63,0.0111718,Great Lakes Coastal Marsh Systems,1640,75,0,0.837885
+Optional 1,14940_41_50_51,0.0045032,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,0.2521792
+Optional 2,14440_41_50_51,0.0186036,Eastern Boreal Floodplain,1633,8102,0.4,150.7263672
+Optional 2,14660_50_51,0.0004406,Great Lakes Wooded Dune and Swale,1634,5271,0.3,2.3224026
+Optional 2,14710_51_62,0.0143584,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,162.6950304
+Optional 2,14750_41_50_51_63_64_65_66,0.0145018,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,856.6358278
+Optional 2,14920_41_50_51_52_63,0.0111862,Great Lakes Coastal Marsh Systems,1640,75,0,0.838965
+Optional 2,14940_41_50_51,0.0064844,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,0.3631264
+Optional Types,14072_41_50_51,0.0009882,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,47.3110632
+Optional Types,14440_41_50_51,0.1231614,Eastern Boreal Floodplain,1633,8102,0.4,997.8536628
+Optional Types,14660_50_51,0.0009018,Great Lakes Wooded Dune and Swale,1634,5271,0.3,4.7533878
+Optional Types,14710_51_62,0.2123552,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,2406.196771
+Optional Types,14750_41_50_51_63_64_65_66,0.213707,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,12623.8862
+Optional Types,14770_40_41_50_51,0.009123,Boreal Acidic Peatland Systems,1637,19902,1,181.565946
+Optional Types,14920_41_50_51_52_63,0.022358,Great Lakes Coastal Marsh Systems,1640,75,0,1.67685
+Optional Types,14940_41_50_51,0.0109876,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,0.6153056
+Replacement Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1614,329316,16.2,160.047576
+Replacement Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1615,54577,2.7,26.524422
+Replacement Fire,13100_51,0.0062444,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,4.6146116
+Replacement Fire,13110_51,0.0073972,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,28.1167572
+Replacement Fire,13130_47_50_51,0.0010134,North-Central Interior Beech-Maple Forest,1619,1705,0.1,1.727847
+Replacement Fire,13441_51,0.029678,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,1620,80188,3.9,2379.819464
+Replacement Fire,13442_51,0.0091302,Boreal Jack Pine-Black Spruce Forest - Spruce-Fir,1621,788,0,7.1945976
+Replacement Fire,13620_51_63_64_65_66,0.0032196,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,2549.92642
+Replacement Fire,13651_51,0.002028,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,25.607556
+Replacement Fire,13652_51,0.0011092,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,18.678928
+Replacement Fire,13660_51_63_64_65_66,0.0020772,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,42.7570848
+Replacement Fire,14071_41_50_51,0.0091622,Laurentian Pine-Oak Barrens,1628,351016,17.3,3216.078795
+Replacement Fire,14072_41_50_51,0.039829,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,1906.853204
+Replacement Fire,14120_39_40_41_42_43_50_51,0.2812866,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,1533.85583
+Replacement Fire,14660_50_51,0.0002614,Great Lakes Wooded Dune and Swale,1634,5271,0.3,1.3778394
+Replacement Fire,14770_40_41_50_51,0.0014102,Boreal Acidic Peatland Systems,1637,19902,1,28.0658004
+Replacement Fire,14790_41_42_47_48_50_51_53,0.0009708,Central Interior and Appalachian Swamp Systems,1638,4068,0.2,3.9492144
+Replacement Fire,14810_41_50_51_63,0.000999,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1639,172343,8.5,172.170657
+Replacement Fire,14940_41_50_51,0.0564512,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,3.1612672
+Surface Fire,13100_51,0.0952858,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,70.4162062
+Surface Fire,13110_51,0.0941492,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,357.8611092
+Surface Fire,13130_47_50_51,0.0012282,North-Central Interior Beech-Maple Forest,1619,1705,0.1,2.094081
+Surface Fire,13441_51,0.147684,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,1620,80188,3.9,11842.48459
+Surface Fire,13620_51_63_64_65_66,0.0150754,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,11939.73188
+Surface Fire,13660_51_63_64_65_66,0.0033762,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,69.4957008
+Surface Fire,14071_41_50_51,0.2054626,Laurentian Pine-Oak Barrens,1628,351016,17.3,72120.66
+Surface Fire,14072_41_50_51,0.0567286,Laurentian Pine-Oak Barrens - Jack Pine,1629,47876,2.4,2715.938454
+Surface Fire,14120_39_40_41_42_43_50_51,0.011561,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,63.042133
+Surface Fire,14440_41_50_51,0.0032354,Eastern Boreal Floodplain,1633,8102,0.4,26.2132108
+Surface Fire,14710_51_62,0.0145488,Central Interior and Appalachian Floodplain Systems,1635,11331,0.6,164.8524528
+Surface Fire,14750_41_50_51_63_64_65_66,0.0147688,Laurentian-Acadian Floodplain Systems,1636,59071,2.9,872.4077848
+Surface Fire,14770_40_41_50_51,0.0082316,Boreal Acidic Peatland Systems,1637,19902,1,163.8253032
+Wind or Weather or Stress,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1614,329316,16.2,301.8510456
+Wind or Weather or Stress,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,1615,54577,2.7,50.0252782
+Wind or Weather or Stress,13100_51,0.000909,North-Central Interior Dry-Mesic Oak Forest and Woodland,1617,739,0,0.671751
+Wind or Weather or Stress,13110_51,0.001093,North-Central Interior Dry Oak Forest and Woodland,1618,3801,0.2,4.154493
+Wind or Weather or Stress,13130_47_50_51,0.140167,North-Central Interior Beech-Maple Forest,1619,1705,0.1,238.984735
+Wind or Weather or Stress,13442_51,0.0006868,Boreal Jack Pine-Black Spruce Forest - Spruce-Fir,1621,788,0,0.5411984
+Wind or Weather or Stress,13620_51_63_64_65_66,0.0033668,Laurentian-Acadian Northern Pine(-Oak) Forest,1622,792001,38.9,2666.508967
+Wind or Weather or Stress,13651_51,0.0662576,Boreal White Spruce-Fir-Hardwood Forest - Inland,1623,12627,0.6,836.6347152
+Wind or Weather or Stress,13652_51,0.0008264,Boreal White Spruce-Fir-Hardwood Forest - Coastal,1624,16840,0.8,13.916576
+Wind or Weather or Stress,13660_51_63_64_65_66,0.0009622,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,1625,20584,1,19.8059248
+Wind or Weather or Stress,14120_39_40_41_42_43_50_51,0.0064688,North-Central Interior Sand and Gravel Tallgrass Prairie,1631,5453,0.3,35.2743664
+Wind or Weather or Stress,14660_50_51,0.0046876,Great Lakes Wooded Dune and Swale,1634,5271,0.3,24.7083396
+Wind or Weather or Stress,14770_40_41_50_51,0.002846,Boreal Acidic Peatland Systems,1637,19902,1,56.641092
+Wind or Weather or Stress,14790_41_42_47_48_50_51_53,0.0081426,Central Interior and Appalachian Swamp Systems,1638,4068,0.2,33.1240968
+Wind or Weather or Stress,14810_41_50_51_63,0.0041718,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1639,172343,8.5,718.9805274
+Wind or Weather or Stress,14940_41_50_51,0.3168432,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,1641,56,0,17.7432192

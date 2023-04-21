@@ -55,7 +55,7 @@ bpsChart
 
 <br>
 
-![](images/bps.jpg){width=100%}
+![](images/bps.png){width=100%}
 
 <br>
 
@@ -90,8 +90,7 @@ fireChart <-
 
 fireChart
 
-# if the plot looks good, save it
-ggsave("./OUTPUTS/fireChart.png", width = 12, height = 5)
+
 ```
 
 <br>
