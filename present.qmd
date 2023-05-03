@@ -11,6 +11,7 @@ All outputs on this page generated with the most recent LANDFIRE [Existing Veget
 
 
 ## Summary
+*   Laurentian-Acadian Northern Hardwoods and Oak Forests are the two dominant existing     vegetation types, with most vegetation height being between 15-20 m. 
 
 
 
@@ -53,7 +54,8 @@ evtChart
 <br>
 
 
-## Chart of Existing Vegetation Cover
+## Existing Vegetation Cover
+Data from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVC classifications on the map. 
 
 ```{r evc chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 evcname <- read.csv("C:/Users/cburtrum/Desktop/huronmanistee/data/evc_aoi_attributes.csv")
@@ -146,12 +148,12 @@ evcChart
 
 <br>
 
-## Map of Existing Vegetation Cover
+
 
 ![](images/evc.png){width=100%}
 
-## Chart of Existing Vegetation Height
-
+## Existing Vegetation Height
+Data from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVH classifications on the map. 
 ```{r evh chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 
 # load evh attribute table
@@ -258,7 +260,7 @@ evhChart
 
 <br>
 
-## Map of Existing Vegetation Height
+
 
 ![](images/evh.png){width=100%}
 

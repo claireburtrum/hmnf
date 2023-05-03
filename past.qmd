@@ -4,6 +4,8 @@ title: "Past"
 LANDFIRE's [Biophysical Settings](https://landfire.gov/bps.php){target="blank"} (BpSs, aka "Historical Ecosystems") represent "the vegetation system that may have been dominant on the landscape prior to Euro-American settlement and is based on both the current biophysical environment and an approximation of the historical disturbance regime." (from https://landfire.gov/bps.php). We will use this data to explore the most prevalent BpSs in a chart and map, and also the historical disturbance data that are linked to the BpSs.
 
 ## Summary
+*   Pre-European colonization, the dominant vegetation system was Laurentian-Acadian Northern Pine/Oak Forest, with this system having the highest historic annual acres burned
+*   The most prevalent LANDFIRE Mean Fire Return Intervals (from BpS) were 2-25 and 25-50 years
   
 
 ## Chart of most prevalent Biophysical Settings

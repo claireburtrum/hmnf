@@ -88,7 +88,7 @@
     "href": "past.html#summary",
     "title": "Past",
     "section": "Summary",
-    "text": "Summary"
+    "text": "Summary\n\nPre-European colonization, the dominant vegetation system was Laurentian-Acadian Northern Pine/Oak Forest, with this system having the highest historic annual acres burned\nThe most prevalent LANDFIRE Mean Fire Return Intervals (from BpS) were 2-25 and 25-50 years"
   },
   {
     "objectID": "past.html#chart-of-most-prevalent-biophysical-settings",
@@ -144,7 +144,7 @@
     "href": "present.html#summary",
     "title": "Present",
     "section": "Summary",
-    "text": "Summary"
+    "text": "Summary\n\nLaurentian-Acadian Northern Hardwoods and Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m."
   },
   {
     "objectID": "present.html#chart-of-most-prevalent-existing-vegetation-types",
@@ -161,31 +161,17 @@
     "text": "Map of most prevalent Existing Vegetation Types"
   },
   {
-    "objectID": "present.html#chart-of-existing-vegetation-cover",
-    "href": "present.html#chart-of-existing-vegetation-cover",
+    "objectID": "present.html#existing-vegetation-cover",
+    "href": "present.html#existing-vegetation-cover",
     "title": "Present",
-    "section": "Chart of Existing Vegetation Cover",
-    "text": "Chart of Existing Vegetation Cover"
+    "section": "Existing Vegetation Cover",
+    "text": "Existing Vegetation Cover\nData from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVC classifications on the map."
   },
   {
-    "objectID": "present.html#map-of-existing-vegetation-cover",
-    "href": "present.html#map-of-existing-vegetation-cover",
+    "objectID": "present.html#existing-vegetation-height",
+    "href": "present.html#existing-vegetation-height",
     "title": "Present",
-    "section": "Map of Existing Vegetation Cover",
-    "text": "Map of Existing Vegetation Cover"
-  },
-  {
-    "objectID": "present.html#chart-of-existing-vegetation-height",
-    "href": "present.html#chart-of-existing-vegetation-height",
-    "title": "Present",
-    "section": "Chart of Existing Vegetation Height",
-    "text": "Chart of Existing Vegetation Height"
-  },
-  {
-    "objectID": "present.html#map-of-existing-vegetation-height",
-    "href": "present.html#map-of-existing-vegetation-height",
-    "title": "Present",
-    "section": "Map of Existing Vegetation Height",
-    "text": "Map of Existing Vegetation Height"
+    "section": "Existing Vegetation Height",
+    "text": "Existing Vegetation Height\nData from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVH classifications on the map."
   }
 ]
