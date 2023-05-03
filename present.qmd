@@ -7,11 +7,19 @@ library(tidyverse)
 ```
 
 
-All outputs on this page generated with the most recent LANDFIRE [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets, which represent conditions on the ground in 2020.  
+LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions. 
+
+* EVT - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016
+* EVC - represents the vertically projected percent cover of the live canopy layer for a 30-m cell
+* EVH - represents the average height of the dominant vegetation for a 30-m cell
+
+[Read more about LANDFIRE Vegetation Products](https://landfire.gov/vegetation.php){target="blank"}
 
 
 ## Summary
-*   Laurentian-Acadian Northern Hardwoods and Oak Forests are the two dominant existing     vegetation types, with most vegetation height being between 15-20 m. 
+* Laurentian-Acadian Northern Hardwoods and Laurentian-Acadian Northern Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m. 
+* Most ecosystems have tree cover > 60%, with over 25% of the area being in the tree category with 70-79% canopy cover.
+* Most trees are 15-20M tall.
 
 
 
@@ -58,7 +66,7 @@ evtChart
 Data from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVC classifications on the map. 
 
 ```{r evc chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
-evcname <- read.csv("C:/Users/cburtrum/Desktop/huronmanistee/data/evc_aoi_attributes.csv")
+evcname <- read.csv("data/evc_aoi_attributes.csv")
 
 # create "type" column based on conditions
 evcname <- evcname %>% mutate(type = if_else(VALUE %in% 11, "Open Water",

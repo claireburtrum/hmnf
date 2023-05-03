@@ -32,7 +32,7 @@
     "href": "comparing.html",
     "title": "Comparisons",
     "section": "",
-    "text": "Outputs on this page compare “Past” conditions with “Present” conditions. Results here are intended for exploration and illumination of issues to explore further. As noted on the “Present” page there are differences in the classification scheme so direct comparisons should be viewed with caution."
+    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs.current vegetation patterns. First we present changes in broad ecosystem types using an interactive chord diagram. Second we compare amounts of succession classes (past and present) for the most prevalent ecosystems."
   },
   {
     "objectID": "comparing.html#summary",
@@ -60,28 +60,28 @@
     "href": "index.html",
     "title": "Huron-Manistee National Forests, 2023",
     "section": "",
-    "text": "In general we will use LANDFIRE products to:\n\nMap and summarize past and present ecosystems and ecosystem conditions\nExplore historical disturbance regimes\nSummarize patterns of change and management opportunities\n\nOutputs presented here are the tip of the iceberg of what can be done with these datasets and are intended to help begin brainstorming about appropriate questions that could be explored collaboratively."
+    "text": "We will use LANDFIRE products to:\n\nMap and summarize past and present ecosystems and ecosystem conditions\nExplore historical disturbance regimes\nSummarize patterns of change and management opportunities\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, however they are intended only as a starting point for further analysis."
   },
   {
     "objectID": "index.html#interacting-with-this-web-report",
     "href": "index.html#interacting-with-this-web-report",
     "title": "Huron-Manistee National Forests, 2023",
     "section": "Interacting with this web report",
-    "text": "Interacting with this web report\nA few notes about using this report:\n\nAs of February 16, 2023 there has been no QAQC. This is a demo only.\nThis platform is web-hosted so you can simply share a link with collaborators for their review.\n\nMaps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems). You can use the “zoom” tool to take a closer look.\nAll maps, input datasets and further assistance can be obtained by contacting Randy Swaty."
+    "text": "Interacting with this web report\nA few notes about using this report:\n\nAs of May 3, 2023 there has been no QAQC. This is a demo only.\nThis platform is web-hosted so you can simply share a link with collaborators for their review.\n\nMaps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems). You can use the “zoom” tool to take a closer look.\nAll maps, input datasets and further assistance can be obtained by contacting Randy Swaty."
   },
   {
     "objectID": "index.html#location-of-this-assessment",
     "href": "index.html#location-of-this-assessment",
     "title": "Huron-Manistee National Forests, 2023",
     "section": "Location of this assessment",
-    "text": "Location of this assessment"
+    "text": "Location of this assessment\nHuron-Manistee administrative boundary, retrieved from FSGeodata Clearinghouse."
   },
   {
     "objectID": "past.html",
     "href": "past.html",
     "title": "Past",
     "section": "",
-    "text": "LANDFIRE’s Biophysical Settings (BpSs, aka “Historical Ecosystems”) represent “the vegetation system that may have been dominant on the landscape prior to Euro-American settlement and is based on both the current biophysical environment and an approximation of the historical disturbance regime.” (from https://landfire.gov/bps.php). We will use this data to explore the most prevalent BpSs in a chart and map, and also the historical disturbance data that are linked to the BpSs."
+    "text": "LANDFIRE’s Biophysical Settings (BpSs, aka “Historical Ecosystems”) represent:\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs in the SRFSN Wyoming Sagebrush Subregion. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
   },
   {
     "objectID": "past.html#summary",
@@ -137,14 +137,14 @@
     "href": "present.html",
     "title": "Present",
     "section": "",
-    "text": "All outputs on this page generated with the most recent LANDFIRE Existing Vegetation Type, Cover and Height datasets, which represent conditions on the ground in 2020."
+    "text": "LANDFIRE’s Existing Vegetation Type, Cover and Height datasets describe vegetation conditions.\nRead more about LANDFIRE Vegetation Products"
   },
   {
     "objectID": "present.html#summary",
     "href": "present.html#summary",
     "title": "Present",
     "section": "Summary",
-    "text": "Summary\n\nLaurentian-Acadian Northern Hardwoods and Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m."
+    "text": "Summary\n\nLaurentian-Acadian Northern Hardwoods and Laurentian-Acadian Northern Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m.\nMost ecosystems have tree cover > 60%, with over 25% of the area being in the tree category with 70-79% canopy cover.\nMost trees are 15-20M tall."
   },
   {
     "objectID": "present.html#chart-of-most-prevalent-existing-vegetation-types",
