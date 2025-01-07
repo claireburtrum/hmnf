@@ -1,66 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "present.html",
+    "href": "present.html",
+    "title": "Present: Current Ecosystem Conditions",
     "section": "",
-    "text": "By Megan Dettenmaier\nLANDFIRE provides 25+ national geo-spatial layers (e.g. vegetation, fuel, disturbance, etc.), databases, and ecological models that are available to the public for the U.S. and insular areas.\nOur direct connection to the LANDFIRE Program offers a comprehensive range of nationwide geospatial data products that reflect current and historic conditions. These products also include ecosystem dynamic models that can be used for conservation, fire planning, and land management decisions.\nLANDFIRE’s mission is to provide agency leaders and managers with a common “all-lands” data set of vegetation and wildland fire/fuels information for strategic fire and resource management planning and analysis.\n\n “Advancing conservation outcomes through collaborative ecosystem science”"
+    "text": "LANDFIRE’s Existing Vegetation Type, Cover and Height datasets describe vegetation conditions.\nRead more about LANDFIRE Vegetation Products"
   },
   {
-    "objectID": "about.html#what-are-biophysical-settings-products",
-    "href": "about.html#what-are-biophysical-settings-products",
-    "title": "About",
-    "section": "What are Biophysical Settings Products?",
-    "text": "What are Biophysical Settings Products?\nA Biophysical Setting (BpS) is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.\nLANDFIRE collaborated with experts around the country to create a description and model for every BpS it mapped across the US.\nCheck out the vegetation modeling website to learn how to integrate BpS into your work.\n\nBiophysical Settings Resources\nVegetation dynamics models: a comprehensive set for natural resource assessment and planning in the United States. Kori Blankenship, Randy Swaty, Kimberly R. Hall, Sarah Hagen, Kelly Pohl, Ayn Shlisky Hunt, Jeannie Patton, Leonardo Frid, Jim Smith\n\n\n\n\n\nBpS Descriptions and Models information\nInformation about the BpS Spatial Data"
-  },
-  {
-    "objectID": "about.html#what-are-existing-vegetation-products",
-    "href": "about.html#what-are-existing-vegetation-products",
-    "title": "About",
-    "section": "What are Existing Vegetation Products",
-    "text": "What are Existing Vegetation Products\n‘LANDFIRE (LF) existing vegetation layers describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.’ (from https://landfire.gov/vegetation.php)\n\nExisting Vegetation Resources\n\n\n\n\n\nExisting Vegetation Cover\nExisting Vegetation Height\nExisting Vegetation Type"
-  },
-  {
-    "objectID": "about.html#intersections-landfire-supports-certified-sustainable-forest-management",
-    "href": "about.html#intersections-landfire-supports-certified-sustainable-forest-management",
-    "title": "About",
-    "section": "Intersections: LANDFIRE Supports Certified Sustainable Forest Management",
-    "text": "Intersections: LANDFIRE Supports Certified Sustainable Forest Management\nIn 2022, members of the Conservation Data Lab used the Ataya Forest Tract near Knoxville, TN as an example landscape for conducting a comprehensive GIS analysis. They compared historical conditions to the current state of the forest while incorporating LANDFIRE’s departure and BpS data (among others). This tutorial provides procedures for forest managers to conduct (similar) analyses using LANDFIRE data.\nCheck out the guide.\n\n\n “Ataya is of conservation interest due to the relatively high connectivity, large average land parcel size and projected climate change resiliency.” \n\n\nMap by Keith Phelps"
-  },
-  {
-    "objectID": "comparing.html",
-    "href": "comparing.html",
-    "title": "Comparisons",
-    "section": "",
-    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs.current vegetation patterns. First we present changes in broad ecosystem types using an interactive chord diagram. Second we compare amounts of succession classes (past and present) for the most prevalent ecosystems."
-  },
-  {
-    "objectID": "comparing.html#summary",
-    "href": "comparing.html#summary",
-    "title": "Comparisons",
+    "objectID": "present.html#summary",
+    "href": "present.html#summary",
+    "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary\nThere has not been broad whole conversion of ecosystems from one to another (explore circular chord diagram below). However, due to harvests, fire suppression and other management actions (in addition to changes in natural processes) there have been some notable changes in succession classes (see “Succession classes for most dominant Biophysical Settings”) section below:\nPerhaps the most interesting broad-scale change is conversion of ‘conifer’ types to ‘hardwood’, presumably due to fire suppression. Some ecosystems have sizable over/under-representation of succession classes on the landscape today compared to modeled historic. For example:\n\nThere is a substantial ‘over-representation’ of succession class D in the Boreal Acid Peatland.\nLANDFIRE mapped almost total lack of succession classes A, B and C with the Boreal White Spruce-Fir-Hardwood-Inland ecosystem.\nAs is seen in most northern hardwood forests the late-closed succession class D was dominant historically, and way under-represented on the landscape today.\n\nThese differences may or may not be ‘real’ on the ground and/or may not be a management priority."
+    "text": "Summary\n\nLaurentian-Acadian Northern Hardwoods and Laurentian-Acadian Northern Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m. * Most ecosystems have tree cover &gt; 60%, with over 25% of the area being in the tree category with 70-79% canopy cover.\nMost trees are 15-20M tall."
   },
   {
-    "objectID": "comparing.html#looking-at-broad-changes-vegetation-conversion",
-    "href": "comparing.html#looking-at-broad-changes-vegetation-conversion",
-    "title": "Comparisons",
-    "section": "Looking at broad changes, vegetation conversion",
-    "text": "Looking at broad changes, vegetation conversion\nThis interactive ‘chord’ diagram allows you to explore changes on the landscape. To use:\n\nHover over the outer bands to see connections. For example, if you over over the dark green outer band of the “Past Conifer” group you can see that some is now mapped as converted, some hardwood, etc., and that the majority is still mapped as conifer.\nAlternatively, if you hover over the orange outer band of “Hardwood” you can see what the present extent of hardwoods vegetation was historically.\nThe popups contain acres for the band."
+    "objectID": "present.html#most-prevalent-existing-vegetation-types",
+    "href": "present.html#most-prevalent-existing-vegetation-types",
+    "title": "Present: Current Ecosystem Conditions",
+    "section": "Most Prevalent Existing Vegetation Types",
+    "text": "Most Prevalent Existing Vegetation Types"
   },
   {
-    "objectID": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
-    "href": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
-    "title": "Comparisons",
-    "section": "Succession classes for most dominant Biophysical Settings",
-    "text": "Succession classes for most dominant Biophysical Settings"
+    "objectID": "present.html#existing-vegetation-cover",
+    "href": "present.html#existing-vegetation-cover",
+    "title": "Present: Current Ecosystem Conditions",
+    "section": "Existing Vegetation Cover",
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest."
+  },
+  {
+    "objectID": "present.html#existing-vegetation-height",
+    "href": "present.html#existing-vegetation-height",
+    "title": "Present: Current Ecosystem Conditions",
+    "section": "Existing Vegetation Height",
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Huron-Manistee National Forests, 2023",
     "section": "",
-    "text": "We will use LANDFIRE products to:\n\nMap and summarize past and present ecosystems and ecosystem conditions\nExplore historical disturbance regimes\nSummarize patterns of change and management opportunities\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, however they are intended only as a starting point for further analysis."
+    "text": "These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options."
+  },
+  {
+    "objectID": "index.html#goals-of-this-quick-demonstration",
+    "href": "index.html#goals-of-this-quick-demonstration",
+    "title": "Huron-Manistee National Forests, 2023",
+    "section": "Goals of this quick demonstration",
+    "text": "Goals of this quick demonstration\nWe will use LANDFIRE products to:\n\nMap and summarize past and present ecosystems and ecosystem conditions\nExplore historical disturbance regimes\nSummarize patterns of change and management opportunities\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, however they are intended only as a starting point for further analysis."
   },
   {
     "objectID": "index.html#interacting-with-this-web-report",
@@ -77,11 +63,74 @@
     "text": "Location of this assessment\nHuron-Manistee administrative boundary, retrieved from FSGeodata Clearinghouse."
   },
   {
+    "objectID": "index.html#how-to-use-this-web-report",
+    "href": "index.html#how-to-use-this-web-report",
+    "title": "Huron-Manistee National Forests, 2023",
+    "section": "How to use this web report",
+    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author and USFS GIS Analyst, Claire Burtrum or Nature Conservancy LANDFIRE ecologist Randy Swaty.\nReview is ongoing.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page.\nLearn more about LANDFIRE and The Nature Conservancy here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this Project",
+    "section": "",
+    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
+  },
+  {
+    "objectID": "about.html#landfire-the-nature-conservancy",
+    "href": "about.html#landfire-the-nature-conservancy",
+    "title": "About this Project",
+    "section": "",
+    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
+  },
+  {
+    "objectID": "about.html#biophysical-settings-products",
+    "href": "about.html#biophysical-settings-products",
+    "title": "About this Project",
+    "section": "Biophysical Settings Products",
+    "text": "Biophysical Settings Products\nA Biophysical Setting (BpS) is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.\n\nLANDFIRE collaborated with experts around the country to create a description and model for every BpS in the US. Find BpS descriptions for your area here.\nCheck out the vegetation modeling website to learn how to integrate BpS into your work.\nRead Blankenship et al. (2021) to learn how the models and descriptions were developed."
+  },
+  {
+    "objectID": "about.html#vegetation-products",
+    "href": "about.html#vegetation-products",
+    "title": "About this Project",
+    "section": "Vegetation Products",
+    "text": "Vegetation Products\nLANDFIRE (LF) existing vegetation layers describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.\n\nResources\n\nExisting Vegetation Cover\nExisting Vegetation Height\nExisting Vegetation Type"
+  },
+  {
+    "objectID": "about.html#still-have-questions-landfire-is-here-to-help.",
+    "href": "about.html#still-have-questions-landfire-is-here-to-help.",
+    "title": "About this Project",
+    "section": "Still have questions? LANDFIRE is here to help.",
+    "text": "Still have questions? LANDFIRE is here to help.\nAsk the LANDFIRE Helpdesk\nSearch the LANDFIRE Helpdesk Dashboard (see what others are asking and find solutions to common problems)\nSearch (& subscribe to) the LANDFIRE YouTube Channel (see tutorials, Office Hours, quick demonstrations)"
+  },
+  {
+    "objectID": "comparing.html",
+    "href": "comparing.html",
+    "title": "Comparisons",
+    "section": "",
+    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.\n\nFirst, we present changes in broad ecosystem types using an interactive comparison diagram. To present these broad ecosystem trends more effectively, we combined classifications of Existing Vegetation Types (EVT) into broader categories. The Developed EVTs of high, medium, and low intensity, and Quarries-Strip Mines-Gravel Pits EVTs were combined into one “Developed” EVT. Exotic Herbaceous and Exotic Tree-shrub EVTs were combined into one “Exotics” EVT.\nSecond, we compare amounts of succession classes (past and present) for the most prevalent ecosystems. ## Summary There has not been broad whole conversion of ecosystems from one to another (explore circular chord diagram below). However, due to harvests, fire suppression and other management actions (in addition to changes in natural processes) there have been some notable changes in succession classes (see “Succession classes for most dominant Biophysical Settings”) section below:\n\nPerhaps the most interesting broad-scale change is conversion of ‘conifer’ types to ‘hardwood’, presumably due to fire suppression.\nThese differences may or may not be ‘real’ on the ground and/or may not be a management priority.\n** Chord Diagram**\nNote: number presented when hovering equals acres."
+  },
+  {
+    "objectID": "comparing.html#comparing-past-vs.-present-conditions",
+    "href": "comparing.html#comparing-past-vs.-present-conditions",
+    "title": "Comparisons",
+    "section": "",
+    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.\n\nFirst, we present changes in broad ecosystem types using an interactive comparison diagram. To present these broad ecosystem trends more effectively, we combined classifications of Existing Vegetation Types (EVT) into broader categories. The Developed EVTs of high, medium, and low intensity, and Quarries-Strip Mines-Gravel Pits EVTs were combined into one “Developed” EVT. Exotic Herbaceous and Exotic Tree-shrub EVTs were combined into one “Exotics” EVT.\nSecond, we compare amounts of succession classes (past and present) for the most prevalent ecosystems. ## Summary There has not been broad whole conversion of ecosystems from one to another (explore circular chord diagram below). However, due to harvests, fire suppression and other management actions (in addition to changes in natural processes) there have been some notable changes in succession classes (see “Succession classes for most dominant Biophysical Settings”) section below:\n\nPerhaps the most interesting broad-scale change is conversion of ‘conifer’ types to ‘hardwood’, presumably due to fire suppression.\nThese differences may or may not be ‘real’ on the ground and/or may not be a management priority.\n** Chord Diagram**\nNote: number presented when hovering equals acres."
+  },
+  {
+    "objectID": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
+    "href": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
+    "title": "Comparisons",
+    "section": "Succession classes for most dominant Biophysical Settings",
+    "text": "Succession classes for most dominant Biophysical Settings\nSome ecosystems have sizable over/under-representation of succession classes on the landscape today compared to modeled historic. For example:\n\nThere is a substantial ‘over-representation’ of succession class D in the Boreal Acid Peatland.\nLANDFIRE mapped almost total lack of succession classes A, B and C with the Boreal White Spruce-Fir-Hardwood-Inland ecosystem.\nAs is seen in most northern hardwood forests the late-closed succession class D was dominant historically, and way under-represented on the landscape today."
+  },
+  {
     "objectID": "past.html",
     "href": "past.html",
     "title": "Past",
     "section": "",
-    "text": "LANDFIRE’s Biophysical Settings (BpSs, aka “Historical Ecosystems”) represent:\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs in the Huron-Manistee National Forests. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
+    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs for your analysis area. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
   },
   {
     "objectID": "past.html#summary",
@@ -91,87 +140,31 @@
     "text": "Summary\n\nPre-European colonization, the dominant vegetation system was Laurentian-Acadian Northern Pine/Oak Forest, with this system having the highest historic annual acres burned\nThe most prevalent LANDFIRE Mean Fire Return Intervals (from BpS) were 2-25 and 25-50 years"
   },
   {
-    "objectID": "past.html#chart-of-most-prevalent-biophysical-settings",
-    "href": "past.html#chart-of-most-prevalent-biophysical-settings",
+    "objectID": "past.html#most-prevalent-biophysical-settings",
+    "href": "past.html#most-prevalent-biophysical-settings",
     "title": "Past",
-    "section": "Chart of most prevalent Biophysical Settings",
-    "text": "Chart of most prevalent Biophysical Settings"
+    "section": "Most Prevalent Biophysical Settings",
+    "text": "Most Prevalent Biophysical Settings"
   },
   {
-    "objectID": "past.html#map-of-most-prevalent-biophysical-settings",
-    "href": "past.html#map-of-most-prevalent-biophysical-settings",
+    "objectID": "past.html#top-historical-fire-regimes",
+    "href": "past.html#top-historical-fire-regimes",
     "title": "Past",
-    "section": "Map of most prevalent Biophysical Settings",
-    "text": "Map of most prevalent Biophysical Settings"
+    "section": "Top Historical Fire Regimes",
+    "text": "Top Historical Fire Regimes"
   },
   {
-    "objectID": "past.html#chart-of-historic-annual-acres-burned-per-ecosystem",
-    "href": "past.html#chart-of-historic-annual-acres-burned-per-ecosystem",
+    "objectID": "past.html#historical-disturbances-per-ecosystem",
+    "href": "past.html#historical-disturbances-per-ecosystem",
     "title": "Past",
-    "section": "Chart of historic annual acres burned per ecosystem",
-    "text": "Chart of historic annual acres burned per ecosystem"
-  },
-  {
-    "objectID": "past.html#simplified-map-of-historical-fire-regimes",
-    "href": "past.html#simplified-map-of-historical-fire-regimes",
-    "title": "Past",
-    "section": "Simplified map of historical fire regimes",
-    "text": "Simplified map of historical fire regimes"
-  },
-  {
-    "objectID": "past.html#all-historical-disturbances-per-ecosystem",
-    "href": "past.html#all-historical-disturbances-per-ecosystem",
-    "title": "Past",
-    "section": "All historical disturbances per ecosystem",
-    "text": "All historical disturbances per ecosystem\n\n\n\n\n\n\nSelect ecosystem"
+    "section": "Historical Disturbances (per ecosystem)",
+    "text": "Historical Disturbances (per ecosystem)\n\n\n\n\n\n\nSelect ecosystem"
   },
   {
     "objectID": "past.html#data-table",
     "href": "past.html#data-table",
     "title": "Past",
     "section": "Data table",
-    "text": "Data table\n\n\n\n\n \n  \n    ZONE \n    BPS_MODEL \n    BPS_NAME \n    GROUPVEG \n    FRI_REPLAC \n    FRI_MIXED \n    FRI_SURFAC \n    FRG_NEW \n    ACRES \n    REL_PERCENT \n  \n \n\n  \n    51 \n    13620_51_63_64_65_66 \n    Laurentian-Acadian Northern Pine(-Oak) Forest \n    Hardwood-Conifer \n    309 \n    447 \n    65 \n    III-A \n    792,001 \n    38.9 \n  \n  \n    51 \n    14071_41_50_51 \n    Laurentian Pine-Oak Barrens \n    Hardwood-Conifer \n    109 \n    75 \n    5 \n    I-A \n    351,016 \n    17.3 \n  \n  \n    51 \n    13022_41_50_51 \n    Laurentian-Acadian Northern Hardwoods Forest-Hemlock \n    Hardwood \n    2,040 \n    NA \n    NA \n    V-B \n    329,316 \n    16.2 \n  \n  \n    51 \n    14810_41_50_51_63 \n    Laurentian-Acadian Alkaline Conifer-Hardwood Swamp \n    Riparian \n    989 \n    NA \n    NA \n    V-B \n    172,343 \n    8.5 \n  \n  \n    51 \n    13441_51 \n    Boreal Jack Pine-Black Spruce Forest-Pine Barrens \n    Conifer \n    34 \n    64 \n    7 \n    I-A \n    80,188 \n    3.9 \n  \n  \n    51 \n    14750_41_50_51_63_64_65_66 \n    Laurentian-Acadian Floodplain Systems \n    Riparian \n    NA \n    435 \n    68 \n    III-A \n    59,071 \n    2.9 \n  \n  \n    51 \n    13022_41_50_51 \n    Laurentian-Acadian Northern Hardwoods Forest-Hemlock \n    Hardwood \n    2,040 \n    NA \n    NA \n    V-B \n    54,577 \n    2.7 \n  \n  \n    51 \n    14072_41_50_51 \n    Laurentian Pine-Oak Barrens-Jack Pine \n    Conifer \n    25 \n    46 \n    18 \n    I-B \n    47,876 \n    2.4 \n  \n  \n    NA \n    NA \n    Open Water \n    Open Water \n    NA \n    NA \n    NA \n    NA \n    35,129 \n    1.7 \n  \n  \n    51 \n    13660_51_63_64_65_66 \n    Laurentian-Acadian Pine-Hemlock-Hardwood Forest \n    Hardwood-Conifer \n    482 \n    998 \n    289 \n    III-B \n    20,584 \n    1.0 \n  \n  \n    51 \n    14770_40_41_50_51 \n    Boreal Acidic Peatland Systems \n    Riparian \n    716 \n    NA \n    123 \n    III-B \n    19,902 \n    1.0 \n  \n  \n    51 \n    13652_51 \n    Boreal White Spruce-Fir-Hardwood Forest-Coastal \n    Conifer \n    872 \n    1,306 \n    NA \n    V-B \n    16,840 \n    0.8 \n  \n  \n    51 \n    13651_51 \n    Boreal White Spruce-Fir-Hardwood Forest-Inland \n    Conifer \n    490 \n    524 \n    NA \n    V-A \n    12,627 \n    0.6 \n  \n  \n    51 \n    14710_51_62 \n    Central Interior and Appalachian Floodplain Systems \n    Riparian \n    NA \n    429 \n    67 \n    III-A \n    11,331 \n    0.6 \n  \n  \n    51 \n    14440_41_50_51 \n    Eastern Boreal Floodplain \n    Hardwood \n    NA \n    581 \n    312 \n    V-A \n    8,102 \n    0.4 \n  \n  \n    51 \n    14120_39_40_41_42_43_50_51 \n    North-Central Interior Sand and Gravel Tallgrass Prairie \n    Grassland \n    4 \n    NA \n    87 \n    II-A \n    5,453 \n    0.3 \n  \n  \n    51 \n    14660_50_51 \n    Great Lakes Wooded Dune and Swale \n    Riparian \n    3,715 \n    536 \n    NA \n    V-A \n    5,271 \n    0.3 \n  \n  \n    51 \n    13110_51 \n    North-Central Interior Dry Oak Forest and Woodland \n    Hardwood \n    137 \n    111 \n    11 \n    I-B \n    3,801 \n    0.2 \n  \n  \n    51 \n    14790_41_42_47_48_50_51_53 \n    Central Interior and Appalachian Swamp Systems \n    Riparian \n    987 \n    NA \n    NA \n    V-B \n    4,068 \n    0.2 \n  \n  \n    51 \n    13130_47_50_51 \n    North-Central Interior Beech-Maple Forest \n    Hardwood \n    1,004 \n    NA \n    836 \n    V-A \n    1,705 \n    0.1 \n  \n  \n    NA \n    NA \n    Barren-Rock/Sand/Clay \n    Barren-Rock/Sand/Clay \n    NA \n    NA \n    NA \n    NA \n    596 \n    0.0 \n  \n  \n    51 \n    13100_51 \n    North-Central Interior Dry-Mesic Oak Forest and Woodland \n    Hardwood \n    161 \n    160 \n    11 \n    I-B \n    739 \n    0.0 \n  \n  \n    51 \n    13442_51 \n    Boreal Jack Pine-Black Spruce Forest-Spruce-Fir \n    Conifer \n    112 \n    NA \n    NA \n    IV-B \n    788 \n    0.0 \n  \n  \n    51 \n    14920_41_50_51_52_63 \n    Great Lakes Coastal Marsh Systems \n    Riparian \n    NA \n    NA \n    NA \n    NA \n    75 \n    0.0 \n  \n  \n    51 \n    14940_41_50_51 \n    Laurentian-Acadian Shrub-Herbaceous Wetland Systems \n    Riparian \n    18 \n    NA \n    NA \n    II-C \n    56 \n    0.0"
-  },
-  {
-    "objectID": "present.html",
-    "href": "present.html",
-    "title": "Present",
-    "section": "",
-    "text": "LANDFIRE’s Existing Vegetation Type, Cover and Height datasets describe vegetation conditions.\nRead more about LANDFIRE Vegetation Products"
-  },
-  {
-    "objectID": "present.html#summary",
-    "href": "present.html#summary",
-    "title": "Present",
-    "section": "Summary",
-    "text": "Summary\n\nLaurentian-Acadian Northern Hardwoods and Laurentian-Acadian Northern Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m.\nMost ecosystems have tree cover > 60%, with over 25% of the area being in the tree category with 70-79% canopy cover.\nMost trees are 15-20M tall."
-  },
-  {
-    "objectID": "present.html#chart-of-most-prevalent-existing-vegetation-types",
-    "href": "present.html#chart-of-most-prevalent-existing-vegetation-types",
-    "title": "Present",
-    "section": "Chart of most prevalent Existing Vegetation Types",
-    "text": "Chart of most prevalent Existing Vegetation Types"
-  },
-  {
-    "objectID": "present.html#map-of-most-prevalent-existing-vegetation-types",
-    "href": "present.html#map-of-most-prevalent-existing-vegetation-types",
-    "title": "Present",
-    "section": "Map of most prevalent Existing Vegetation Types",
-    "text": "Map of most prevalent Existing Vegetation Types"
-  },
-  {
-    "objectID": "present.html#existing-vegetation-cover",
-    "href": "present.html#existing-vegetation-cover",
-    "title": "Present",
-    "section": "Existing Vegetation Cover",
-    "text": "Existing Vegetation Cover\nData from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVC classifications on the map."
-  },
-  {
-    "objectID": "present.html#existing-vegetation-height",
-    "href": "present.html#existing-vegetation-height",
-    "title": "Present",
-    "section": "Existing Vegetation Height",
-    "text": "Existing Vegetation Height\nData from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVH classifications on the map."
+    "text": "Data table\n\n\n\n\n\nZONE\nBPS_MODEL\nBPS_NAME\nGROUPVEG\nFRI_REPLAC\nFRI_MIXED\nFRI_SURFAC\nFRG_NEW\nACRES\nREL_PERCENT\n\n\n\n\n51\n13620_51_63_64_65_66\nLaurentian-Acadian Northern Pine(-Oak) Forest\nHardwood-Conifer\n309\n447\n65\nIII-A\n792,001\n38.9\n\n\n51\n14071_41_50_51\nLaurentian Pine-Oak Barrens\nHardwood-Conifer\n109\n75\n5\nI-A\n351,016\n17.3\n\n\n51\n13022_41_50_51\nLaurentian-Acadian Northern Hardwoods Forest-Hemlock\nHardwood\n2,040\nNA\nNA\nV-B\n329,316\n16.2\n\n\n51\n14810_41_50_51_63\nLaurentian-Acadian Alkaline Conifer-Hardwood Swamp\nRiparian\n989\nNA\nNA\nV-B\n172,343\n8.5\n\n\n51\n13441_51\nBoreal Jack Pine-Black Spruce Forest-Pine Barrens\nConifer\n34\n64\n7\nI-A\n80,188\n3.9\n\n\n51\n14750_41_50_51_63_64_65_66\nLaurentian-Acadian Floodplain Systems\nRiparian\nNA\n435\n68\nIII-A\n59,071\n2.9\n\n\n51\n13022_41_50_51\nLaurentian-Acadian Northern Hardwoods Forest-Hemlock\nHardwood\n2,040\nNA\nNA\nV-B\n54,577\n2.7\n\n\n51\n14072_41_50_51\nLaurentian Pine-Oak Barrens-Jack Pine\nConifer\n25\n46\n18\nI-B\n47,876\n2.4\n\n\nNA\nNA\nOpen Water\nOpen Water\nNA\nNA\nNA\nNA\n35,129\n1.7\n\n\n51\n13660_51_63_64_65_66\nLaurentian-Acadian Pine-Hemlock-Hardwood Forest\nHardwood-Conifer\n482\n998\n289\nIII-B\n20,584\n1.0\n\n\n51\n14770_40_41_50_51\nBoreal Acidic Peatland Systems\nRiparian\n716\nNA\n123\nIII-B\n19,902\n1.0\n\n\n51\n13652_51\nBoreal White Spruce-Fir-Hardwood Forest-Coastal\nConifer\n872\n1,306\nNA\nV-B\n16,840\n0.8\n\n\n51\n13651_51\nBoreal White Spruce-Fir-Hardwood Forest-Inland\nConifer\n490\n524\nNA\nV-A\n12,627\n0.6\n\n\n51\n14710_51_62\nCentral Interior and Appalachian Floodplain Systems\nRiparian\nNA\n429\n67\nIII-A\n11,331\n0.6\n\n\n51\n14440_41_50_51\nEastern Boreal Floodplain\nHardwood\nNA\n581\n312\nV-A\n8,102\n0.4\n\n\n51\n14120_39_40_41_42_43_50_51\nNorth-Central Interior Sand and Gravel Tallgrass Prairie\nGrassland\n4\nNA\n87\nII-A\n5,453\n0.3\n\n\n51\n14660_50_51\nGreat Lakes Wooded Dune and Swale\nRiparian\n3,715\n536\nNA\nV-A\n5,271\n0.3\n\n\n51\n13110_51\nNorth-Central Interior Dry Oak Forest and Woodland\nHardwood\n137\n111\n11\nI-B\n3,801\n0.2\n\n\n51\n14790_41_42_47_48_50_51_53\nCentral Interior and Appalachian Swamp Systems\nRiparian\n987\nNA\nNA\nV-B\n4,068\n0.2\n\n\n51\n13130_47_50_51\nNorth-Central Interior Beech-Maple Forest\nHardwood\n1,004\nNA\n836\nV-A\n1,705\n0.1\n\n\nNA\nNA\nBarren-Rock/Sand/Clay\nBarren-Rock/Sand/Clay\nNA\nNA\nNA\nNA\n596\n0.0\n\n\n51\n13100_51\nNorth-Central Interior Dry-Mesic Oak Forest and Woodland\nHardwood\n161\n160\n11\nI-B\n739\n0.0\n\n\n51\n13442_51\nBoreal Jack Pine-Black Spruce Forest-Spruce-Fir\nConifer\n112\nNA\nNA\nIV-B\n788\n0.0\n\n\n51\n14920_41_50_51_52_63\nGreat Lakes Coastal Marsh Systems\nRiparian\nNA\nNA\nNA\nNA\n75\n0.0\n\n\n51\n14940_41_50_51\nLaurentian-Acadian Shrub-Herbaceous Wetland Systems\nRiparian\n18\nNA\nNA\nII-C\n56\n0.0"
   }
 ]

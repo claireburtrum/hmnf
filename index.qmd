@@ -3,6 +3,12 @@ title: "Huron-Manistee National Forests, 2023"
 author: "Claire Burtrum with substantial code contributions from Myles Walimaa"
 ---
 
+<font size="4"> 
+**These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options. **
+
+</font> 
+
+
 ## Goals of this quick demonstration
 
 We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
@@ -47,7 +53,11 @@ library(raster)
 shp <- st_read("data/") %>% 
   st_transform(crs = 5070) %>%
   st_union() %>%
-  st_sf()
+  st_sf() %>%
+  st_make_valid()
+
+
+plot(shp)
 ```
 
 ```{r locator map, message=FALSE, warning=FALSE, echo=FALSE}
@@ -57,14 +67,23 @@ library(tmap)
 tmap_mode("view")
 
 # create a quick interactive map
-quickmap <- qtm(shp, borders = "darkgreen",  check.and.fix = TRUE)
+quickmap <- qtm(shp, 
+                borders = "darkgreen", 
+                fill = NULL, 
+                check.and.fix = TRUE, 
+                basemaps = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
+                title = 'Huron-Manistee National Forest',)
 
-
-sf_use_s2(FALSE)
 quickmap
 
 
 
 ```
 
+## How to use this web report
 
+* All maps, input datasets and further assistance can be obtained by contacting the author and USFS GIS Analyst, [Claire Burtrum](mailto:claireburtrum@gmail.com) or Nature Conservancy LANDFIRE ecologist [Randy Swaty](mailto:rswaty@tnc.org){target="blank"}.
+* Review is ongoing.
+* To share this web app, simply share the hyperlink.
+* Toggle between dark and light display of this site in the upper right corner of the page.
+* Learn more about LANDFIRE and The Nature Conservancy [here](about.qmd){target="blank}. 

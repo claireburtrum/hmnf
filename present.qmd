@@ -1,29 +1,31 @@
 ---
-title: "Present"
+title: "Present: Current Ecosystem Conditions"
 ---
 
 ```{r include=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 ```
 
+LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions.
 
-LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions. 
-
-* EVT - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016
-* EVC - represents the vertically projected percent cover of the live canopy layer for a 30-m cell
-* EVH - represents the average height of the dominant vegetation for a 30-m cell
+-   Existing Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016.
+-   Existing Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.
+-   Existing Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell.
 
 [Read more about LANDFIRE Vegetation Products](https://landfire.gov/vegetation.php){target="blank"}
 
 
 ## Summary
-* Laurentian-Acadian Northern Hardwoods and Laurentian-Acadian Northern Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m. 
-* Most ecosystems have tree cover > 60%, with over 25% of the area being in the tree category with 70-79% canopy cover.
+* Laurentian-Acadian Northern Hardwoods and Laurentian-Acadian Northern Oak Forests are the two dominant existing vegetation types, with most vegetation height being between 15-20 m. * Most ecosystems have tree cover > 60%, with over 25% of the area being in the tree category with 70-79% canopy cover.
 * Most trees are 15-20M tall.
 
 
 
-## Chart of most prevalent Existing Vegetation Types
+## Most Prevalent Existing Vegetation Types
+
+![](images/evt.png){width=100%}
+
+<br>
 
 ```{r evt chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 evtname <- read.csv(file = "data/evt_aoi_attributes.csv") %>%
@@ -51,19 +53,15 @@ evtChart <-
 evtChart
 ```
 
-<br>
-
-## Map of most prevalent Existing Vegetation Types
 
 <br>
-
-![](images/evt.png){width=100%}
-
-<br>
-
 
 ## Existing Vegetation Cover
-Data from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVC classifications on the map. 
+The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest.
+
+![](images/evc.png){width=100%}
+
+<br>
 
 ```{r evc chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 evcname <- read.csv("data/evc_aoi_attributes.csv")
@@ -157,11 +155,13 @@ evcChart
 <br>
 
 
-
-![](images/evc.png){width=100%}
-
 ## Existing Vegetation Height
-Data from the chart below is displayed spatially on the map directly below the chart. The colors on the graph directly correspond with EVH classifications on the map. 
+The Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height.
+
+<br>
+![](images/evh.png){width=100%}
+<br>
+
 ```{r evh chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 
 # load evh attribute table
@@ -270,6 +270,6 @@ evhChart
 
 
 
-![](images/evh.png){width=100%}
+
 
 
